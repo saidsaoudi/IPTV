@@ -10,28 +10,28 @@
   <link rel="canonical" href="index.php">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Home - Parrot">
+  <meta property="og:title" content="Home - Rabbitaitv">
   <meta property="og:description" content="6 months">
   <meta property="og:url" content="https://rabbitaitv.com">
-  <meta property="og:site_name" content="Parrot">
+  <meta property="og:site_name" content="Rabbitaitv">
   <meta property="og:updated_time" content="2025-02-23T04:19:10+00:00">
   <meta property="article:published_time" content="2021-09-06T13:42:18+00:00">
   <meta property="article:modified_time" content="2025-02-23T04:19:10+00:00">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Home - Parrot">
+  <meta name="twitter:title" content="Home - Rabbitaitv">
   <meta name="twitter:description" content="6 months">
   <meta name="twitter:label1" content="Written by">
-  <meta name="twitter:data1" content="parrot">
+  <meta name="twitter:data1" content="Rabbitaitv">
   <meta name="twitter:label2" content="Time to read">
   <meta name="twitter:data2" content="3 minutes">
   <script type="application/ld+json" class="rank-math-schema">
-  {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rabbitaitv.com#organization","name":"Parrot","logo":{"@type":"ImageObject","@id":"https://rabbitaitv.com#logo","url":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","contentUrl":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","caption":"Parrot","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://rabbitaitv.com#website","url":"https://parrot-iptv.com","name":"Parrot","publisher":{"@id":"https://rabbitaitv.com#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://rabbitaitv.com?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/ABC_c.avif","url":"https://rabbitaitv.com/wp-content/uploads/2024/12/ABC_c.avif","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rabbitaitv.com#webpage","url":"https://rabbitaitv.com","name":"Home - Parrot","datePublished":"2021-09-06T13:42:18+00:00","dateModified":"2025-02-23T04:19:10+00:00","about":{"@id":"https://rabbitaitv.com#organization"},"isPartOf":{"@id":"https://rabbitaitv.com#website"},"primaryImageOfPage":{"@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/ABC_c.avif"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rabbitaitv.comauthor/benzizoune-abdessamadgmail-com/","name":"parrot","url":"https://rabbitaitv.comauthor/benzizoune-abdessamadgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","caption":"parrot","inLanguage":"en-US"},"sameAs":["https://parrot-iptv.com"],"worksFor":{"@id":"https://rabbitaitv.com#organization"}},{"@type":"Article","headline":"Home - Parrot","datePublished":"2021-09-06T13:42:18+00:00","dateModified":"2025-02-23T04:19:10+00:00","author":{"@id":"https://rabbitaitv.comauthor/benzizoune-abdessamadgmail-com/","name":"parrot"},"publisher":{"@id":"https://rabbitaitv.com#organization"},"description":"6 months","name":"Home - Parrot","@id":"https://rabbitaitv.com#richSnippet","isPartOf":{"@id":"https://rabbitaitv.com#webpage"},"image":{"@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/ABC_c.avif"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rabbitaitv.com#webpage"}}]}
+  {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rabbitaitv.com#organization","name":"Rabbitaitv","logo":{"@type":"ImageObject","@id":"https://rabbitaitv.com#logo","url":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","contentUrl":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","caption":"Rabbitaitv","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://rabbitaitv.com#website","url":"https://rabbitaitv.com","name":"Rabbitaitv","publisher":{"@id":"https://rabbitaitv.com#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://rabbitaitv.com?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/ABC_c.avif","url":"https://rabbitaitv.com/wp-content/uploads/2024/12/ABC_c.avif","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rabbitaitv.com#webpage","url":"https://rabbitaitv.com","name":"Home - Rabbitaitv","datePublished":"2021-09-06T13:42:18+00:00","dateModified":"2025-02-23T04:19:10+00:00","about":{"@id":"https://rabbitaitv.com#organization"},"isPartOf":{"@id":"https://rabbitaitv.com#website"},"primaryImageOfPage":{"@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/ABC_c.avif"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rabbitaitv.comauthor/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv","url":"https://rabbitaitv.comauthor/benzizoune-abdessamadgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","caption":"Rabbitaitv","inLanguage":"en-US"},"sameAs":["https://rabbitaitv.com"],"worksFor":{"@id":"https://rabbitaitv.com#organization"}},{"@type":"Article","headline":"Home - Rabbitaitv","datePublished":"2021-09-06T13:42:18+00:00","dateModified":"2025-02-23T04:19:10+00:00","author":{"@id":"https://rabbitaitv.comauthor/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv"},"publisher":{"@id":"https://rabbitaitv.com#organization"},"description":"6 months","name":"Home - Rabbitaitv","@id":"https://rabbitaitv.com#richSnippet","isPartOf":{"@id":"https://rabbitaitv.com#webpage"},"image":{"@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/ABC_c.avif"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rabbitaitv.com#webpage"}}]}
   </script>
   <meta name="google-site-verification" content="d2K_7cdRcFRiuvQPVhBqJOGJOvm-DQqbEj0k2gblS-E">
   <link rel='dns-prefetch' href='http://stats.wp.com/'>
   <link rel='dns-prefetch' href='http://fonts.googleapis.com/'>
-  <link rel="alternate" type="application/rss+xml" title="Parrot » Feed" href="feed/index.php">
-  <link rel="alternate" type="application/rss+xml" title="Parrot » Comments Feed" href="comments/feed/index.php">
+  <link rel="alternate" type="application/rss+xml" title="Rabbitaitv » Feed" href="feed/index.php">
+  <link rel="alternate" type="application/rss+xml" title="Rabbitaitv » Comments Feed" href="comments/feed/index.php">
   <style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
   .safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
 
@@ -120,7 +120,7 @@
   <script type="text/javascript" src="wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min4a91.js?ver=2.7.0-wc.9.7.1" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
   <script type="text/javascript" id="wc-add-to-cart-js-extra">
   /* <![CDATA[ */
-  var wc_add_to_cart_params = {"ajax_url":"\/p-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/parrot-iptv.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+  var wc_add_to_cart_params = {"ajax_url":"\/p-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/rabbitaitv.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
   /* ]]> */
   </script>
   <script type="text/javascript" src="wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min04d4.js?ver=9.7.1" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
@@ -139,8 +139,8 @@
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd">
   <meta name="generator" content="WordPress 6.7.2">
   <link rel='shortlink' href='index.php'>
-  <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed9c75.json?url=https%3A%2F%2Fparrot-iptv.com%2F">
-  <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed92b8?url=https%3A%2F%2Fparrot-iptv.com%2F&amp;format=xml">
+  <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed9c75.json?url=https%3A%2F%2Frabbitaitv.com%2F">
+  <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed92b8?url=https%3A%2F%2Frabbitaitv.com%2F&amp;format=xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><noscript>
   <style>
 

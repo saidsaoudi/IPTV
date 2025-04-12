@@ -14,12 +14,12 @@
   </script>
   <title>Reseller - rabbitaitv</title>
   <script type="application/ld+json" class="rank-math-schema">
-  {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rabbitaitv.com/#organization","name":"Parrot","logo":{"@type":"ImageObject","@id":"https://rabbitaitv.com/#logo","url":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","wp-contentUrl":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","caption":"Parrot","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://rabbitaitv.com/#website","url":"https://parrot-iptv.com","name":"Parrot","publisher":{"@id":"https://rabbitaitv.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rabbitaitv.com/reseller/#webpage","url":"https://rabbitaitv.com/reseller/","name":"Reseller - Parrot","datePublished":"2024-11-24T19:37:46+00:00","dateModified":"2025-02-20T01:57:11+00:00","isPartOf":{"@id":"https://rabbitaitv.com/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"parrot","url":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","caption":"parrot","inLanguage":"en-US"},"sameAs":["https://parrot-iptv.com"],"worksFor":{"@id":"https://rabbitaitv.com/#organization"}},{"@type":"Article","headline":"Reseller - Parrot","datePublished":"2024-11-24T19:37:46+00:00","dateModified":"2025-02-20T01:57:11+00:00","author":{"@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"parrot"},"publisher":{"@id":"https://rabbitaitv.com/#organization"},"description":"Become IPTV Reseller and Make Extra Income (75% Profits)","name":"Reseller - Parrot","@id":"https://rabbitaitv.com/reseller/#richSnippet","isPartOf":{"@id":"https://rabbitaitv.com/reseller/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rabbitaitv.com/reseller/#webpage"}}]}
+  {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rabbitaitv.com/#organization","name":"Rabbitaitv","logo":{"@type":"ImageObject","@id":"https://rabbitaitv.com/#logo","url":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","wp-contentUrl":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","caption":"Rabbitaitv","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://rabbitaitv.com/#website","url":"https://rabbitaitv.com","name":"Rabbitaitv","publisher":{"@id":"https://rabbitaitv.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rabbitaitv.com/reseller/#webpage","url":"https://rabbitaitv.com/reseller/","name":"Reseller - Rabbitaitv","datePublished":"2024-11-24T19:37:46+00:00","dateModified":"2025-02-20T01:57:11+00:00","isPartOf":{"@id":"https://rabbitaitv.com/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv","url":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","caption":"Rabbitaitv","inLanguage":"en-US"},"sameAs":["https://rabbitaitv.com"],"worksFor":{"@id":"https://rabbitaitv.com/#organization"}},{"@type":"Article","headline":"Reseller - Rabbitaitv","datePublished":"2024-11-24T19:37:46+00:00","dateModified":"2025-02-20T01:57:11+00:00","author":{"@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv"},"publisher":{"@id":"https://rabbitaitv.com/#organization"},"description":"Become IPTV Reseller and Make Extra Income (75% Profits)","name":"Reseller - Rabbitaitv","@id":"https://rabbitaitv.com/reseller/#richSnippet","isPartOf":{"@id":"https://rabbitaitv.com/reseller/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rabbitaitv.com/reseller/#webpage"}}]}
   </script>
   <link rel='dns-prefetch' href='http://stats.wp.com/'>
   <link rel='dns-prefetch' href='http://fonts.googleapis.com/'>
-  <link rel="alternate" type="application/rss+xml" title="Parrot » Feed" href="../feed/index.php">
-  <link rel="alternate" type="application/rss+xml" title="Parrot » Comments Feed" href="../comments/feed/index.php">
+  <link rel="alternate" type="application/rss+xml" title="Rabbitaitv » Feed" href="../feed/index.php">
+  <link rel="alternate" type="application/rss+xml" title="Rabbitaitv » Comments Feed" href="../comments/feed/index.php">
   <style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
   .safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
 
@@ -94,7 +94,7 @@
   <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min4a91.js?ver=2.7.0-wc.9.7.1" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
   <script type="text/javascript" id="wc-add-to-cart-js-extra">
   /* <![CDATA[ */
-  var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/parrot-iptv.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+  var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/rabbitaitv.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
   /* ]]> */
   </script>
   <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min04d4.js?ver=9.7.1" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
@@ -113,8 +113,8 @@
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd">
   <meta name="generator" wp-content="WordPress 6.7.2">
   <link rel='shortlink' href='../indexc614.html?p=27997'>
-  <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed9537.json?url=https%3A%2F%2Fparrot-iptv.com%2Freseller%2F">
-  <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedb2b3?url=https%3A%2F%2Fparrot-iptv.com%2Freseller%2F&amp;format=xml">
+  <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed9537.json?url=https%3A%2F%2Frabbitaitv.com%2Freseller%2F">
+  <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedb2b3?url=https%3A%2F%2Frabbitaitv.com%2Freseller%2F&amp;format=xml">
   <style>
   img#wpstats{display:none}
   </style>

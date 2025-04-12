@@ -4,7 +4,7 @@
         <div class="wd-content-area site-content">
           <article id="post-1887" class="entry-content post-1887 page type-page status-publish hentry">
             <div data-elementor-type="wp-page" data-elementor-id="1887" class="elementor elementor-1887" data-elementor-post-type="page">
-              <div class="elementor-element elementor-element-2192ef4 wd-section-stretch elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="2192ef4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/parrot-iptv.com\/wp-content\/uploads\/2024\/12\/112024-motionwall-corner-extendttttttttttt.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:30}">
+              <div class="elementor-element elementor-element-2192ef4 wd-section-stretch elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="2192ef4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/rabbitaitv.com\/wp-content\/uploads\/2024\/12\/112024-motionwall-corner-extendttttttttttt.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:30}">
                 <div class="e-con-inner">
                   <div class="elementor-background-video-container">
                     <video class="elementor-background-video-hosted" autoplay="" muted playsinline loop=""></video>
@@ -72,7 +72,7 @@
                   </div>
                 </div>
               </div>
-              <div class="elementor-element elementor-element-5551c27 wd-section-stretch elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="5551c27" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/parrot-iptv.com\/wp-content\/uploads\/2024\/12\/112024-motionwall-corner-extendttttttttttt.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:30}">
+              <div class="elementor-element elementor-element-5551c27 wd-section-stretch elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="5551c27" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/rabbitaitv.com\/wp-content\/uploads\/2024\/12\/112024-motionwall-corner-extendttttttttttt.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:30}">
                 <div class="e-con-inner">
                   <div class="elementor-background-video-container">
                     <video class="elementor-background-video-hosted" autoplay="" muted playsinline loop=""></video>
@@ -725,7 +725,7 @@
                 <div class="e-con-inner">
                   <div class="elementor-element elementor-element-365b324 elementor-widget elementor-widget-heading" data-id="365b324" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-default">Watch Parrot on Your Favorite Devices</h2>
+                      <h2 class="elementor-heading-title elementor-size-default">Watch Rabbitaitv on Your Favorite Devices</h2>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-4ed824e elementor-widget elementor-widget-heading" data-id="4ed824e" data-element_type="widget" data-widget_type="heading.default">
@@ -951,7 +951,7 @@
                         <details id="e-n-accordion-item-2150" class="e-n-accordion-item" open>
                           <summary class="e-n-accordion-item-title" data-accordion-index="1" tabindex="0" aria-expanded="true" aria-controls="e-n-accordion-item-2150">
                             <div class="e-n-accordion-item-title-text">
-                              <span class='e-n-accordion-item-title-header'>What's Parrot IPTV ?</span>
+                              <span class='e-n-accordion-item-title-header'>What's Rabbitaitv IPTV ?</span>
                             </div><span class='e-n-accordion-item-title-icon'><span class='e-opened'><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                             <path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span> <span class='e-closed'><svg aria-hidden="true" class="e-font-icon-svg e-fas-plus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                             <path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span></span>
@@ -959,7 +959,7 @@
                           <div role="region" aria-labelledby="e-n-accordion-item-2150" class="elementor-element elementor-element-c70a79a e-con-full e-flex e-con e-child" data-id="c70a79a" data-element_type="container">
                             <div class="elementor-element elementor-element-c40d839 elementor-widget elementor-widget-heading" data-id="c40d839" data-element_type="widget" data-widget_type="heading.default">
                               <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">Parrot is a streaming service With tons of hit movies and TV shows, Originals, current NBC & Bravo hits, and LIVE Sports including Sunday Night Football and Premier League, Parrot is here for whatever you’re in the mood for, from binge watching to channel surfing. Sign up here to start streaming.</h2>
+                                <h2 class="elementor-heading-title elementor-size-default">Rabbitaitv is a streaming service With tons of hit movies and TV shows, Originals, current NBC & Bravo hits, and LIVE Sports including Sunday Night Football and Premier League, Rabbitaitv is here for whatever you’re in the mood for, from binge watching to channel surfing. Sign up here to start streaming.</h2>
                               </div>
                             </div>
                           </div>
@@ -967,7 +967,7 @@
                         <details id="e-n-accordion-item-2151" class="e-n-accordion-item">
                           <summary class="e-n-accordion-item-title" data-accordion-index="2" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-2151">
                             <div class="e-n-accordion-item-title-text">
-                              <span class='e-n-accordion-item-title-header'>Can I watch soccer leagues live with Parrot?</span>
+                              <span class='e-n-accordion-item-title-header'>Can I watch soccer leagues live with Rabbitaitv?</span>
                             </div><span class='e-n-accordion-item-title-icon'><span class='e-opened'><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                             <path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span> <span class='e-closed'><svg aria-hidden="true" class="e-font-icon-svg e-fas-plus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                             <path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span></span>
@@ -975,7 +975,7 @@
                           <div role="region" aria-labelledby="e-n-accordion-item-2151" class="elementor-element elementor-element-a3a2568 e-con-full e-flex e-con e-child" data-id="a3a2568" data-element_type="container">
                             <div class="elementor-element elementor-element-765648c elementor-widget elementor-widget-heading" data-id="765648c" data-element_type="widget" data-widget_type="heading.default">
                               <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">Yes! Parrot networks broadcast Premier League, Champions League, MLS, Ligue 1, Liga MX and many others leagues and tournaments.</h2>
+                                <h2 class="elementor-heading-title elementor-size-default">Yes! Rabbitaitv networks broadcast Premier League, Champions League, MLS, Ligue 1, Liga MX and many others leagues and tournaments.</h2>
                               </div>
                             </div>
                           </div>
@@ -991,7 +991,7 @@
                           <div role="region" aria-labelledby="e-n-accordion-item-2152" class="elementor-element elementor-element-481eb63 e-con-full e-flex e-con e-child" data-id="481eb63" data-element_type="container">
                             <div class="elementor-element elementor-element-c47202b elementor-widget elementor-widget-heading" data-id="c47202b" data-element_type="widget" data-widget_type="heading.default">
                               <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">Absolutely! Not only does Parrot IPTV have the NFL, NBA and MLB, but you can also watch NHL, NASCAR, MLS, golf, tennis, boxing, MMA, college sports and more. Plus, we have every golf major, tennis major and Triple Crown race as well as full coverage of specials like the Super Bowl, World Series, NBA Finals, Stanley Cup Playoffs and Olympics.</h2>
+                                <h2 class="elementor-heading-title elementor-size-default">Absolutely! Not only does Rabbitaitv IPTV have the NFL, NBA and MLB, but you can also watch NHL, NASCAR, MLS, golf, tennis, boxing, MMA, college sports and more. Plus, we have every golf major, tennis major and Triple Crown race as well as full coverage of specials like the Super Bowl, World Series, NBA Finals, Stanley Cup Playoffs and Olympics.</h2>
                               </div>
                             </div>
                           </div>
@@ -999,7 +999,7 @@
                         <details id="e-n-accordion-item-2153" class="e-n-accordion-item">
                           <summary class="e-n-accordion-item-title" data-accordion-index="4" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-2153">
                             <div class="e-n-accordion-item-title-text">
-                              <span class='e-n-accordion-item-title-header'>What devices can I watch Parrot on?</span>
+                              <span class='e-n-accordion-item-title-header'>What devices can I watch Rabbitaitv on?</span>
                             </div><span class='e-n-accordion-item-title-icon'><span class='e-opened'><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                             <path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span> <span class='e-closed'><svg aria-hidden="true" class="e-font-icon-svg e-fas-plus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                             <path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span></span>
@@ -1007,7 +1007,7 @@
                           <div role="region" aria-labelledby="e-n-accordion-item-2153" class="elementor-element elementor-element-04e6b06 e-con-full e-flex e-con e-child" data-id="04e6b06" data-element_type="container">
                             <div class="elementor-element elementor-element-699be7c elementor-widget elementor-widget-heading" data-id="699be7c" data-element_type="widget" data-widget_type="heading.default">
                               <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">You can watch Parrot IPTV on your computer, iPhone, iPad, Android phone and tablet, Roku, Apple TV, Chromecast, Xbox consoles and Amazon Fire TV.</h2>
+                                <h2 class="elementor-heading-title elementor-size-default">You can watch Rabbitaitv IPTV on your computer, iPhone, iPad, Android phone and tablet, Roku, Apple TV, Chromecast, Xbox consoles and Amazon Fire TV.</h2>
                               </div>
                             </div>
                           </div>
