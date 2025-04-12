@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
-    <div class="wd-page-wp-content main-page-wrapper">
-      <div class="wd-page-title page-title page-title-default title-size-large title-design-centered color-scheme-light" style="background-image: url(../wp-content/uploads/2024/12/Untitled-design-68.png);">
+    <div class="wd-page-rab-content main-page-wrapper">
+      <div class="wd-page-title page-title page-title-default title-size-large title-design-centered color-scheme-light" style="background-image: url(../rab-content/uploads/2024/12/Untitled-design-68.png);">
         <div class="container">
           <h1 class="entry-title title">Reseller</h1>
           <nav class="wd-breadcrumbs">
@@ -8,9 +8,9 @@
           </nav>
         </div>
       </div>
-      <main class="wd-wp-content-layout wp-content-layout-wrapper container" role="main">
-        <div class="wd-wp-content-area site-wp-content">
-          <article id="post-27997" class="entry-wp-content post-27997 page type-page status-publish hentry">
+      <main class="wd-rab-content-layout rab-content-layout-wrapper container" role="main">
+        <div class="wd-rab-content-area site-rab-content">
+          <article id="post-27997" class="entry-rab-content post-27997 page type-page status-publish hentry">
             <div data-elementor-type="wp-page" data-elementor-id="27997" class="elementor elementor-27997" data-elementor-post-type="page">
               <div class="wd-negative-gap elementor-element elementor-element-ca61ce6 e-flex e-con-boxed e-con e-parent" data-id="ca61ce6" data-element_type="container">
                 <div class="e-con-inner">
@@ -47,7 +47,7 @@
                       <div class="elementor-element elementor-element-f1ec39f elementor-widget elementor-widget-button" data-id="f1ec39f" data-element_type="widget" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                           <div class="elementor-button-wrapper">
-                            <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Most Popular</span></span></a>
+                            <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-rab-content-wrapper"><span class="elementor-button-text">Most Popular</span></span></a>
                           </div>
                         </div>
                       </div>
@@ -86,7 +86,7 @@
                           <div class="elementor-element elementor-element-71de045 elementor-align-justify elementor-widget elementor-widget-button" data-id="71de045" data-element_type="widget" data-widget_type="button.default">
                             <div class="elementor-widget-container">
                               <div class="elementor-button-wrapper">
-                                <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/4i3sb7" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
+                                <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/4i3sb7" target="_blank" rel="noopener"><span class="elementor-button-rab-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
                               </div>
                             </div>
                           </div>
@@ -97,7 +97,7 @@
                       <div class="elementor-element elementor-element-f6e292f elementor-widget elementor-widget-button" data-id="f6e292f" data-element_type="widget" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                           <div class="elementor-button-wrapper">
-                            <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Most Popular</span></span></a>
+                            <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-rab-content-wrapper"><span class="elementor-button-text">Most Popular</span></span></a>
                           </div>
                         </div>
                       </div>
@@ -136,7 +136,7 @@
                           <div class="elementor-element elementor-element-9fde1ba elementor-align-justify elementor-widget elementor-widget-button" data-id="9fde1ba" data-element_type="widget" data-widget_type="button.default">
                             <div class="elementor-widget-container">
                               <div class="elementor-button-wrapper">
-                                <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/xs29ua" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
+                                <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/xs29ua" target="_blank" rel="noopener"><span class="elementor-button-rab-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
                               </div>
                             </div>
                           </div>
@@ -147,7 +147,7 @@
                       <div class="elementor-element elementor-element-e9ff373 elementor-widget elementor-widget-button" data-id="e9ff373" data-element_type="widget" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                           <div class="elementor-button-wrapper">
-                            <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Most Popular</span></span></a>
+                            <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-rab-content-wrapper"><span class="elementor-button-text">Most Popular</span></span></a>
                           </div>
                         </div>
                       </div>
@@ -186,7 +186,7 @@
                           <div class="elementor-element elementor-element-30c697d elementor-align-justify elementor-widget elementor-widget-button" data-id="30c697d" data-element_type="widget" data-widget_type="button.default">
                             <div class="elementor-widget-container">
                               <div class="elementor-button-wrapper">
-                                <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/hhjzai" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
+                                <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/hhjzai" target="_blank" rel="noopener"><span class="elementor-button-rab-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
                               </div>
                             </div>
                           </div>

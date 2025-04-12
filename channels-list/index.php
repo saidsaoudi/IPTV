@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
     <div class="wd-page-content main-page-wrapper">
-      <div class="wd-page-title page-title page-title-default title-size-large title-design-centered color-scheme-light" style="background-image: url(../wp-content/uploads/2024/12/Untitled-design-68.png);">
+      <div class="wd-page-title page-title page-title-default title-size-large title-design-centered color-scheme-light" style="background-image: url(../rab-content/uploads/2024/12/Untitled-design-68.png);">
         <div class="container">
           <h1 class="entry-title title">Channels list</h1>
           <nav class="wd-breadcrumbs">

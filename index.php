@@ -4,7 +4,7 @@
         <div class="wd-content-area site-content">
           <article id="post-1887" class="entry-content post-1887 page type-page status-publish hentry">
             <div data-elementor-type="wp-page" data-elementor-id="1887" class="elementor elementor-1887" data-elementor-post-type="page">
-              <div class="elementor-element elementor-element-2192ef4 wd-section-stretch elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="2192ef4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/rabbitaitv.com\/wp-content\/uploads\/2024\/12\/112024-motionwall-corner-extendttttttttttt.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:30}">
+              <div class="elementor-element elementor-element-2192ef4 wd-section-stretch elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="2192ef4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/rabbitaitv.com\/rab-content\/uploads\/2024\/12\/112024-motionwall-corner-extendttttttttttt.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:30}">
                 <div class="e-con-inner">
                   <div class="elementor-background-video-container">
                     <video class="elementor-background-video-hosted" autoplay="" muted playsinline loop=""></video>
@@ -72,7 +72,7 @@
                   </div>
                 </div>
               </div>
-              <div class="elementor-element elementor-element-5551c27 wd-section-stretch elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="5551c27" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/rabbitaitv.com\/wp-content\/uploads\/2024\/12\/112024-motionwall-corner-extendttttttttttt.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:30}">
+              <div class="elementor-element elementor-element-5551c27 wd-section-stretch elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="5551c27" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/rabbitaitv.com\/rab-content\/uploads\/2024\/12\/112024-motionwall-corner-extendttttttttttt.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:30}">
                 <div class="e-con-inner">
                   <div class="elementor-background-video-container">
                     <video class="elementor-background-video-hosted" autoplay="" muted playsinline loop=""></video>
@@ -152,22 +152,22 @@
                 <div class="e-con-inner">
                   <div class="elementor-element elementor-element-111b6ad e-con-full e-flex e-con e-child" data-id="111b6ad" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-element elementor-element-f13d5d1 elementor-widget elementor-widget-image" data-id="f13d5d1" data-element_type="widget" data-widget_type="image.default">
-                      <div class="elementor-widget-container"><img decoding="async" width="200" height="200" src="./wp-content/uploads/ABC_c.avif" class="attachment-full size-full wp-image-28667" alt="ABC_c" srcset="./wp-content/uploads/ABC_c.avif 200w, ./wp-content/uploads/ABC_c.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
+                      <div class="elementor-widget-container"><img decoding="async" width="200" height="200" src="./rab-content/uploads/ABC_c.avif" class="attachment-full size-full wp-image-28667" alt="ABC_c" srcset="./rab-content/uploads/ABC_c.avif 200w, ./rab-content/uploads/ABC_c.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-834b4d7 e-con-full e-flex e-con e-child" data-id="834b4d7" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-element elementor-element-e7abed2 elementor-widget elementor-widget-image" data-id="e7abed2" data-element_type="widget" data-widget_type="image.default">
-                      <div class="elementor-widget-container"><img decoding="async" width="200" height="58" src="./wp-content/uploads/cbs_2020_c.avif" class="attachment-full size-full wp-image-28673" alt="cbs_2020_c" srcset="./wp-content/uploads/cbs_2020_c.avif 200w, ./wp-content/uploads/cbs_2020_c.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
+                      <div class="elementor-widget-container"><img decoding="async" width="200" height="58" src="./rab-content/uploads/cbs_2020_c.avif" class="attachment-full size-full wp-image-28673" alt="cbs_2020_c" srcset="./rab-content/uploads/cbs_2020_c.avif 200w, ./rab-content/uploads/cbs_2020_c.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-7874abd e-con-full e-flex e-con e-child" data-id="7874abd" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-element elementor-element-9dff967 elementor-widget elementor-widget-image" data-id="9dff967" data-element_type="widget" data-widget_type="image.default">
-                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="200" height="52" src="./wp-content/uploads/nbc_c.avif" class="attachment-full size-full wp-image-28672" alt="nbc_c" srcset="./wp-content/uploads/nbc_c.avif 200w, ./wp-content/uploads/nbc_c.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
+                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="200" height="52" src="./rab-content/uploads/nbc_c.avif" class="attachment-full size-full wp-image-28672" alt="nbc_c" srcset="./rab-content/uploads/nbc_c.avif 200w, ./rab-content/uploads/nbc_c.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-a3a6f6b e-con-full e-flex e-con e-child" data-id="a3a6f6b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-element elementor-element-1db6f46 elementor-widget elementor-widget-image" data-id="1db6f46" data-element_type="widget" data-widget_type="image.default">
-                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="200" height="83" src="./wp-content/uploads/fox_c.avif" class="attachment-full size-full wp-image-28671" alt="fox_c" srcset="https://rabbitaitv.com/wp-content/uploads/2024/12/fox_c.avif 200w, https://rabbitaitv.com/wp-content/uploads/2024/12/fox_c-150x62.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
+                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="200" height="83" src="./rab-content/uploads/fox_c.avif" class="attachment-full size-full wp-image-28671" alt="fox_c" srcset="https://rabbitaitv.com/rab-content/uploads/2024/12/fox_c.avif 200w, https://rabbitaitv.com/rab-content/uploads/2024/12/fox_c-150x62.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
                     </div>
                   </div>
                 </div>
@@ -176,17 +176,17 @@
                 <div class="e-con-inner">
                   <div class="elementor-element elementor-element-baceb7e e-con-full e-flex e-con e-child" data-id="baceb7e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-element elementor-element-ff3e42a elementor-widget elementor-widget-image" data-id="ff3e42a" data-element_type="widget" data-widget_type="image.default">
-                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="200" height="127" src="wp-content/uploads/2024/12/fx_c.avif" class="attachment-full size-full wp-image-28670" alt="fx_c" srcset="https://rabbitaitv.com/wp-content/uploads/2024/12/fx_c.avif 200w, https://rabbitaitv.com/wp-content/uploads/2024/12/fx_c-150x95.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
+                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="200" height="127" src="rab-content/uploads/2024/12/fx_c.avif" class="attachment-full size-full wp-image-28670" alt="fx_c" srcset="https://rabbitaitv.com/rab-content/uploads/2024/12/fx_c.avif 200w, https://rabbitaitv.com/rab-content/uploads/2024/12/fx_c-150x95.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-a1a2adc e-con-full e-flex e-con e-child" data-id="a1a2adc" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-element elementor-element-39637ec elementor-widget elementor-widget-image" data-id="39637ec" data-element_type="widget" data-widget_type="image.default">
-                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="200" height="50" src="wp-content/uploads/2024/12/espn-logo-new_c.avif" class="attachment-full size-full wp-image-28669" alt="espn-logo-new_c" srcset="https://rabbitaitv.com/wp-content/uploads/2024/12/espn-logo-new_c.avif 200w, https://rabbitaitv.com/wp-content/uploads/2024/12/espn-logo-new_c-150x38.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
+                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="200" height="50" src="rab-content/uploads/2024/12/espn-logo-new_c.avif" class="attachment-full size-full wp-image-28669" alt="espn-logo-new_c" srcset="https://rabbitaitv.com/rab-content/uploads/2024/12/espn-logo-new_c.avif 200w, https://rabbitaitv.com/rab-content/uploads/2024/12/espn-logo-new_c-150x38.avif 150w" sizes="(max-width: 200px) 100vw, 200px"></div>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-b896ee4 e-con-full e-flex e-con e-child" data-id="b896ee4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-element elementor-element-c844d49 elementor-widget elementor-widget-image" data-id="c844d49" data-element_type="widget" data-widget_type="image.default">
-                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="499" height="290" src="wp-content/uploads/2024/12/channels4_profile-removebg-preview-1.png" class="attachment-full size-full wp-image-28793" alt="channels4_profile-removebg-preview-1" srcset="https://rabbitaitv.com/wp-content/uploads/2024/12/channels4_profile-removebg-preview-1.png 499w, https://rabbitaitv.com/wp-content/uploads/2024/12/channels4_profile-removebg-preview-1-400x232.png 400w, https://rabbitaitv.com/wp-content/uploads/2024/12/channels4_profile-removebg-preview-1-430x250.png 430w, https://rabbitaitv.com/wp-content/uploads/2024/12/channels4_profile-removebg-preview-1-150x87.png 150w" sizes="(max-width: 499px) 100vw, 499px"></div>
+                      <div class="elementor-widget-container"><img loading="lazy" decoding="async" width="499" height="290" src="rab-content/uploads/2024/12/channels4_profile-removebg-preview-1.png" class="attachment-full size-full wp-image-28793" alt="channels4_profile-removebg-preview-1" srcset="https://rabbitaitv.com/rab-content/uploads/2024/12/channels4_profile-removebg-preview-1.png 499w, https://rabbitaitv.com/rab-content/uploads/2024/12/channels4_profile-removebg-preview-1-400x232.png 400w, https://rabbitaitv.com/rab-content/uploads/2024/12/channels4_profile-removebg-preview-1-430x250.png 430w, https://rabbitaitv.com/rab-content/uploads/2024/12/channels4_profile-removebg-preview-1-150x87.png 150w" sizes="(max-width: 499px) 100vw, 499px"></div>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-96d70fc e-con-full e-flex e-con e-child" data-id="96d70fc" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -205,77 +205,77 @@
                       <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item21-150x46-1.webp" alt="brand_item21-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item21-150x46-1.webp" alt="brand_item21-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item05-150x46-1.webp" alt="brand_item05-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item05-150x46-1.webp" alt="brand_item05-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item14-150x46-1.webp" alt="brand_item14-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item14-150x46-1.webp" alt="brand_item14-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item18-150x46-1.webp" alt="brand_item18-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item18-150x46-1.webp" alt="brand_item18-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item10-150x46-1.webp" alt="brand_item10-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item10-150x46-1.webp" alt="brand_item10-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item22-150x46-1.webp" alt="brand_item22-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item22-150x46-1.webp" alt="brand_item22-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item06-150x46-1.webp" alt="brand_item06-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item06-150x46-1.webp" alt="brand_item06-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item09-150x46-1.webp" alt="brand_item09-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item09-150x46-1.webp" alt="brand_item09-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item13-150x46-1.webp" alt="brand_item13-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item13-150x46-1.webp" alt="brand_item13-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/FOX.png" alt="FOX">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/FOX.png" alt="FOX">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item12.webp" alt="brand_item12">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item12.webp" alt="brand_item12">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="12 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item11.webp" alt="brand_item11">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item11.webp" alt="brand_item11">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="13 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item08-150x46-1.webp" alt="brand_item08-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item08-150x46-1.webp" alt="brand_item08-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="14 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item16-150x46-1.webp" alt="brand_item16-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item16-150x46-1.webp" alt="brand_item16-150x46-1">
                           </figure>
                         </div>
                         <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="15 of 15">
                           <figure class="swiper-slide-inner">
-                            <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/12/brand_item15-150x46-1.webp" alt="brand_item15-150x46-1">
+                            <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/12/brand_item15-150x46-1.webp" alt="brand_item15-150x46-1">
                           </figure>
                         </div>
                       </div>
@@ -298,47 +298,47 @@
                                 <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-24.webp" alt="552 (24)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-24.webp" alt="552 (24)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-24.png" alt="552 (24)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-24.png" alt="552 (24)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-24.jpg" alt="552 (24)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-24.jpg" alt="552 (24)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-21.png" alt="552 (21)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-21.png" alt="552 (21)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-23.png" alt="552 (23)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-23.png" alt="552 (23)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-22.jpg" alt="552 (22)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-22.jpg" alt="552 (22)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-20.jpg" alt="552 (20)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-20.jpg" alt="552 (20)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-21.jpg" alt="552 (21)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-21.jpg" alt="552 (21)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-15.png" alt="552 (15)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-15.png" alt="552 (15)">
                                     </figure>
                                   </div>
                                 </div>
@@ -353,47 +353,47 @@
                                 <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-52.jpg" alt="552 (52)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-52.jpg" alt="552 (52)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-51.jpg" alt="552 (51)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-51.jpg" alt="552 (51)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-50.jpg" alt="552 (50)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-50.jpg" alt="552 (50)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-49.jpg" alt="552 (49)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-49.jpg" alt="552 (49)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-48.jpg" alt="552 (48)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-48.jpg" alt="552 (48)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-47.jpg" alt="552 (47)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-47.jpg" alt="552 (47)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-46.jpg" alt="552 (46)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-46.jpg" alt="552 (46)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-45.jpg" alt="552 (45)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-45.jpg" alt="552 (45)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-44.jpg" alt="552 (44)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-44.jpg" alt="552 (44)">
                                     </figure>
                                   </div>
                                 </div>
@@ -408,47 +408,47 @@
                                 <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552.png" alt="552">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552.png" alt="552">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552.jpg" alt="552">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552.jpg" alt="552">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-59.jpg" alt="552 (59)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-59.jpg" alt="552 (59)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-58.jpg" alt="552 (58)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-58.jpg" alt="552 (58)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-57.jpg" alt="552 (57)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-57.jpg" alt="552 (57)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-56.jpg" alt="552 (56)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-56.jpg" alt="552 (56)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-55.jpg" alt="552 (55)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-55.jpg" alt="552 (55)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-54.jpg" alt="552 (54)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-54.jpg" alt="552 (54)">
                                     </figure>
                                   </div>
                                   <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 9">
                                     <figure class="swiper-slide-inner">
-                                      <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/552-53.jpg" alt="552 (53)">
+                                      <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/552-53.jpg" alt="552 (53)">
                                     </figure>
                                   </div>
                                 </div>
@@ -488,7 +488,7 @@
                                 <div class="promo-banner-wrapper wd-carousel-item elementor-repeater-item-18e89f4">
                                   <div class="promo-banner banner-default banner-hover-zoom color-scheme- banner-btn-size-default banner-btn-style-default wd-with-link">
                                     <div class="main-wrapp-img">
-                                      <div class="banner-image wd-without-height"><img loading="lazy" decoding="async" width="2560" height="1440" src="/wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif" class="attachment-full size-full" alt="Premier_League_Rebrands_DesignStudio_02" srcset="wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 2560w, wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 400w, wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 1300w, wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 768w, wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 1536w, wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 2048w, wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 430w, wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 700w, wp-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 150w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
+                                      <div class="banner-image wd-without-height"><img loading="lazy" decoding="async" width="2560" height="1440" src="/rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif" class="attachment-full size-full" alt="Premier_League_Rebrands_DesignStudio_02" srcset="rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 2560w, rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 400w, rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 1300w, rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 768w, rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 1536w, rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 2048w, rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 430w, rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 700w, rab-content/uploads/2024/12/Premier_League_Rebrands_DesignStudio_02.avif 150w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
                                     </div>
                                     <div class="wrapper-content-banner wd-fill wd-items-bottom wd-justify-left">
                                       <div class="content-banner text-left"></div>
@@ -498,7 +498,7 @@
                                 <div class="promo-banner-wrapper wd-carousel-item elementor-repeater-item-5e94b7b">
                                   <div class="promo-banner banner-default banner-hover-zoom color-scheme- banner-btn-size-default banner-btn-style-default wd-with-link">
                                     <div class="main-wrapp-img">
-                                      <div class="banner-image wd-without-height"><img loading="lazy" decoding="async" width="2560" height="1440" src="wp-content/uploads/2024/12/RedZone24.webp" class="attachment-full size-full" alt="RedZone24" srcset="wp-content/uploads/2024/12/RedZone24.webp 2560w, wp-content/uploads/2024/12/RedZone24.webp 400w, wp-content/uploads/2024/12/RedZone24.webp 1300w, wp-content/uploads/2024/12/RedZone24.webp 768w, wp-content/uploads/2024/12/RedZone24.webp 1536w, wp-content/uploads/2024/12/RedZone24.webp 2048w, wp-content/uploads/2024/12/RedZone24.webp 430w, wp-content/uploads/2024/12/RedZone24.webp 700w, wp-content/uploads/2024/12/RedZone24.webp 150w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
+                                      <div class="banner-image wd-without-height"><img loading="lazy" decoding="async" width="2560" height="1440" src="rab-content/uploads/2024/12/RedZone24.webp" class="attachment-full size-full" alt="RedZone24" srcset="rab-content/uploads/2024/12/RedZone24.webp 2560w, rab-content/uploads/2024/12/RedZone24.webp 400w, rab-content/uploads/2024/12/RedZone24.webp 1300w, rab-content/uploads/2024/12/RedZone24.webp 768w, rab-content/uploads/2024/12/RedZone24.webp 1536w, rab-content/uploads/2024/12/RedZone24.webp 2048w, rab-content/uploads/2024/12/RedZone24.webp 430w, rab-content/uploads/2024/12/RedZone24.webp 700w, rab-content/uploads/2024/12/RedZone24.webp 150w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
                                     </div>
                                     <div class="wrapper-content-banner wd-fill wd-items-bottom wd-justify-left">
                                       <div class="content-banner text-left"></div>
@@ -508,7 +508,7 @@
                                 <div class="promo-banner-wrapper wd-carousel-item elementor-repeater-item-2d56a85">
                                   <div class="promo-banner banner-default banner-hover-zoom color-scheme- banner-btn-size-default banner-btn-style-default wd-with-link">
                                     <div class="main-wrapp-img">
-                                      <div class="banner-image wd-without-height"><img loading="lazy" decoding="async" width="1920" height="1080" src="/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf.jpg" class="attachment-full size-full" alt="WWE-1920x1080-1efcbd6baf" srcset="https://rabbitaitv.com/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf.jpg 1920w, https://rabbitaitv.com/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-400x225.jpg 400w, https://rabbitaitv.com/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-1300x731.jpg 1300w, https://rabbitaitv.com/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-768x432.jpg 768w, https://rabbitaitv.com/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-1536x864.jpg 1536w, https://rabbitaitv.com/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-430x242.jpg 430w, https://rabbitaitv.com/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-700x394.jpg 700w, https://rabbitaitv.com/wp-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-150x84.jpg 150w" sizes="(max-width: 1920px) 100vw, 1920px"></div>
+                                      <div class="banner-image wd-without-height"><img loading="lazy" decoding="async" width="1920" height="1080" src="/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf.jpg" class="attachment-full size-full" alt="WWE-1920x1080-1efcbd6baf" srcset="https://rabbitaitv.com/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf.jpg 1920w, https://rabbitaitv.com/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-400x225.jpg 400w, https://rabbitaitv.com/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-1300x731.jpg 1300w, https://rabbitaitv.com/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-768x432.jpg 768w, https://rabbitaitv.com/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-1536x864.jpg 1536w, https://rabbitaitv.com/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-430x242.jpg 430w, https://rabbitaitv.com/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-700x394.jpg 700w, https://rabbitaitv.com/rab-content/uploads/2024/12/WWE-1920x1080-1efcbd6baf-150x84.jpg 150w" sizes="(max-width: 1920px) 100vw, 1920px"></div>
                                     </div>
                                     <div class="wrapper-content-banner wd-fill wd-items-bottom wd-justify-left">
                                       <div class="content-banner text-left"></div>
@@ -518,7 +518,7 @@
                                 <div class="promo-banner-wrapper wd-carousel-item elementor-repeater-item-fa687d9">
                                   <div class="promo-banner banner-default banner-hover-zoom color-scheme- banner-btn-size-default banner-btn-style-default wd-with-link">
                                     <div class="main-wrapp-img">
-                                      <div class="banner-image wd-without-height"><img loading="lazy" decoding="async" width="1200" height="628" src="/wp-content/uploads/2024/12/LEAGUEPASS_SEO.webp" class="attachment-full size-full" alt="LEAGUEPASS_SEO" srcset="https://rabbitaitv.com/wp-content/uploads/2024/12/LEAGUEPASS_SEO.webp 1200w, https://rabbitaitv.com/wp-content/uploads/2024/12/LEAGUEPASS_SEO-400x209.webp 400w, https://rabbitaitv.com/wp-content/uploads/2024/12/LEAGUEPASS_SEO-768x402.webp 768w, https://rabbitaitv.com/wp-content/uploads/2024/12/LEAGUEPASS_SEO-430x225.webp 430w, https://rabbitaitv.com/wp-content/uploads/2024/12/LEAGUEPASS_SEO-700x366.webp 700w, https://rabbitaitv.com/wp-content/uploads/2024/12/LEAGUEPASS_SEO-150x79.webp 150w" sizes="(max-width: 1200px) 100vw, 1200px"></div>
+                                      <div class="banner-image wd-without-height"><img loading="lazy" decoding="async" width="1200" height="628" src="/rab-content/uploads/2024/12/LEAGUEPASS_SEO.webp" class="attachment-full size-full" alt="LEAGUEPASS_SEO" srcset="https://rabbitaitv.com/rab-content/uploads/2024/12/LEAGUEPASS_SEO.webp 1200w, https://rabbitaitv.com/rab-content/uploads/2024/12/LEAGUEPASS_SEO-400x209.webp 400w, https://rabbitaitv.com/rab-content/uploads/2024/12/LEAGUEPASS_SEO-768x402.webp 768w, https://rabbitaitv.com/rab-content/uploads/2024/12/LEAGUEPASS_SEO-430x225.webp 430w, https://rabbitaitv.com/rab-content/uploads/2024/12/LEAGUEPASS_SEO-700x366.webp 700w, https://rabbitaitv.com/rab-content/uploads/2024/12/LEAGUEPASS_SEO-150x79.webp 150w" sizes="(max-width: 1200px) 100vw, 1200px"></div>
                                     </div>
                                     <div class="wrapper-content-banner wd-fill wd-items-bottom wd-justify-left">
                                       <div class="content-banner text-left"></div>
@@ -739,7 +739,7 @@
                         <div class="elementor-image-carousel swiper-wrapper swiper-image-stretch" aria-live="polite">
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Web1-3.png" alt="Windows &amp; Mac">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Web1-3.png" alt="Windows &amp; Mac">
                               <figcaption class="elementor-image-carousel-caption">
                                 Windows & Mac
                               </figcaption>
@@ -747,7 +747,7 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Mobile1-4.png" alt="iOS and Android">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Mobile1-4.png" alt="iOS and Android">
                               <figcaption class="elementor-image-carousel-caption">
                                 iOS and Android
                               </figcaption>
@@ -755,12 +755,12 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Roku-2.png" alt="Roku (2)">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Roku-2.png" alt="Roku (2)">
                             </figure>
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Firetv-2.png" alt="Select Models">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Firetv-2.png" alt="Select Models">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select Models
                               </figcaption>
@@ -776,7 +776,7 @@
                         <div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 5">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Samsung-1.png" alt="Select TV Models">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Samsung-1.png" alt="Select TV Models">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select TV Models
                               </figcaption>
@@ -784,7 +784,7 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 5">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Android-2.png" alt="Select TV Models">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Android-2.png" alt="Select TV Models">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select TV Models
                               </figcaption>
@@ -792,7 +792,7 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 5">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/LG-2.png" alt="Select TV Models">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/LG-2.png" alt="Select TV Models">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select TV Models
                               </figcaption>
@@ -800,7 +800,7 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 5">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Vizio-2.png" alt="Select Models">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Vizio-2.png" alt="Select Models">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select Models
                               </figcaption>
@@ -808,7 +808,7 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 5">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Appletv-1.png" alt="Select TV Models">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Appletv-1.png" alt="Select TV Models">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select TV Models
                               </figcaption>
@@ -824,7 +824,7 @@
                         <div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Hisense1-2.png" alt="Select Devices">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Hisense1-2.png" alt="Select Devices">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select Devices
                               </figcaption>
@@ -832,7 +832,7 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Cox-1.png" alt="Select Devices">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Cox-1.png" alt="Select Devices">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select Devices
                               </figcaption>
@@ -840,7 +840,7 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Xfinity-1.png" alt="Select Devices">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Xfinity-1.png" alt="Select Devices">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select Devices
                               </figcaption>
@@ -848,7 +848,7 @@
                           </div>
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Firetv-2.png" alt="Select Models">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Firetv-2.png" alt="Select Models">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select Models
                               </figcaption>
@@ -864,7 +864,7 @@
                         <div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
                           <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 1">
                             <figure class="swiper-slide-inner">
-                              <img decoding="async" class="swiper-slide-image" src="wp-content/uploads/2024/11/Firetv-2.png" alt="Select Models">
+                              <img decoding="async" class="swiper-slide-image" src="rab-content/uploads/2024/11/Firetv-2.png" alt="Select Models">
                               <figcaption class="elementor-image-carousel-caption">
                                 Select Models
                               </figcaption>

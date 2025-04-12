@@ -13,7 +13,7 @@
   </script>
   <title>Setup Guide - Rabbitaitv</title>
   <script type="application/ld+json" class="rank-math-schema">
-  {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rabbitaitv.com/#organization","name":"Rabbitaitv","logo":{"@type":"ImageObject","@id":"https://rabbitaitv.com/#logo","url":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","wp-contentUrl":"https://rabbitaitv.com/wp-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","caption":"Rabbitaitv","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://rabbitaitv.com/#website","url":"https://rabbitaitv.com","name":"Rabbitaitv","publisher":{"@id":"https://rabbitaitv.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png","url":"https://rabbitaitv.com/wp-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rabbitaitv.com/setup-guide/#webpage","url":"https://rabbitaitv.com/setup-guide/","name":"Setup Guide - Rabbitaitv","datePublished":"2024-11-24T19:37:05+00:00","dateModified":"2024-12-01T23:54:27+00:00","isPartOf":{"@id":"https://rabbitaitv.com/#website"},"primaryImageOfPage":{"@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv","url":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","caption":"Rabbitaitv","inLanguage":"en-US"},"sameAs":["https://rabbitaitv.com"],"worksFor":{"@id":"https://rabbitaitv.com/#organization"}},{"@type":"Article","headline":"Setup Guide - Rabbitaitv","datePublished":"2024-11-24T19:37:05+00:00","dateModified":"2024-12-01T23:54:27+00:00","author":{"@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv"},"publisher":{"@id":"https://rabbitaitv.com/#organization"},"description":"Setting up IPTV can seem overwhelming at first, but don\u2019t worry \u2013 with our step-by-step guide, you\u2019ll be up and running in no time. Whether you\u2019re a","name":"Setup Guide - Rabbitaitv","@id":"https://rabbitaitv.com/setup-guide/#richSnippet","isPartOf":{"@id":"https://rabbitaitv.com/setup-guide/#webpage"},"image":{"@id":"https://rabbitaitv.com/wp-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rabbitaitv.com/setup-guide/#webpage"}}]}
+  {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rabbitaitv.com/#organization","name":"Rabbitaitv","logo":{"@type":"ImageObject","@id":"https://rabbitaitv.com/#logo","url":"https://rabbitaitv.com/rab-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","rab-contentUrl":"https://rabbitaitv.com/rab-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","caption":"Rabbitaitv","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://rabbitaitv.com/#website","url":"https://rabbitaitv.com","name":"Rabbitaitv","publisher":{"@id":"https://rabbitaitv.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://rabbitaitv.com/rab-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png","url":"https://rabbitaitv.com/rab-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rabbitaitv.com/setup-guide/#webpage","url":"https://rabbitaitv.com/setup-guide/","name":"Setup Guide - Rabbitaitv","datePublished":"2024-11-24T19:37:05+00:00","dateModified":"2024-12-01T23:54:27+00:00","isPartOf":{"@id":"https://rabbitaitv.com/#website"},"primaryImageOfPage":{"@id":"https://rabbitaitv.com/rab-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv","url":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","caption":"Rabbitaitv","inLanguage":"en-US"},"sameAs":["https://rabbitaitv.com"],"worksFor":{"@id":"https://rabbitaitv.com/#organization"}},{"@type":"Article","headline":"Setup Guide - Rabbitaitv","datePublished":"2024-11-24T19:37:05+00:00","dateModified":"2024-12-01T23:54:27+00:00","author":{"@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv"},"publisher":{"@id":"https://rabbitaitv.com/#organization"},"description":"Setting up IPTV can seem overwhelming at first, but don\u2019t worry \u2013 with our step-by-step guide, you\u2019ll be up and running in no time. Whether you\u2019re a","name":"Setup Guide - Rabbitaitv","@id":"https://rabbitaitv.com/setup-guide/#richSnippet","isPartOf":{"@id":"https://rabbitaitv.com/setup-guide/#webpage"},"image":{"@id":"https://rabbitaitv.com/rab-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rabbitaitv.com/setup-guide/#webpage"}}]}
   </script>
   <link rel='dns-prefetch' href='http://stats.wp.com/'>
   <link rel='dns-prefetch' href='http://fonts.googleapis.com/'>
@@ -28,7 +28,7 @@
   <style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
   .jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
   </style>
-  <link rel='stylesheet' id='nta-css-popup-css' href='../wp-content/plugins/wp-whatsapp/assets/dist/css/styled1c0.css?ver=6.7.2' type='text/css' media='all'>
+  <link rel='stylesheet' id='nta-css-popup-css' href='../rab-content/plugins/wp-whatsapp/assets/dist/css/styled1c0.css?ver=6.7.2' type='text/css' media='all'>
   <style id='classic-theme-styles-inline-css' type='text/css'>
   /*! This file is auto-generated */
   .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -42,88 +42,88 @@
   <style id='woocommerce-inline-inline-css' type='text/css'>
   .woocommerce form .form-row .required { visibility: visible; }
   </style>
-  <link rel='stylesheet' id='brands-styles-css' href='../wp-content/plugins/woocommerce/assets/css/brands04d4.css?ver=9.7.1' type='text/css' media='all'>
-  <link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/uploads/elementor/css/custom-frontend.min218f.css?ver=1742530814' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-image-css' href='../wp-content/plugins/elementor/assets/css/widget-image.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-nav-menu-css' href='../wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min218f.css?ver=1742530814' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-text-editor-css' href='../wp-content/plugins/elementor/assets/css/widget-text-editor.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-heading-css' href='../wp-content/plugins/elementor/assets/css/widget-heading.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-icon-list-css' href='../wp-content/uploads/elementor/css/custom-widget-icon-list.min218f.css?ver=1742530814' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-form-css' href='../wp-content/plugins/elementor-pro/assets/css/widget-form.minb403.css?ver=3.25.3' type='text/css' media='all'>
-  <link rel='stylesheet' id='elementor-post-6-css' href='../wp-content/uploads/elementor/css/post-6218f.css?ver=1742530814' type='text/css' media='all'>
-  <link rel='stylesheet' id='e-popup-style-css' href='../wp-content/plugins/elementor-pro/assets/css/conditionals/popup.minb403.css?ver=3.25.3' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-image-box-css' href='../wp-content/uploads/elementor/css/custom-widget-image-box.min218f.css?ver=1742530814' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-nested-accordion-css' href='../wp-content/plugins/elementor/assets/css/widget-nested-accordion.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
-  <link rel='stylesheet' id='elementor-post-27993-css' href='../wp-content/uploads/elementor/css/post-27993f53a.css?ver=1742538742' type='text/css' media='all'>
-  <link rel='stylesheet' id='elementor-post-27971-css' href='../wp-content/uploads/elementor/css/post-27971218f.css?ver=1742530814' type='text/css' media='all'>
-  <link rel='stylesheet' id='elementor-post-28262-css' href='../wp-content/uploads/elementor/css/post-28262218f.css?ver=1742530814' type='text/css' media='all'>
-  <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='../wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticonsedb1.css?ver=3.4.4' type='text/css' media='all'>
-  <link rel='stylesheet' id='ekit-widget-styles-css' href='../wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-stylesedb1.css?ver=3.4.4' type='text/css' media='all'>
-  <link rel='stylesheet' id='ekit-responsive-css' href='../wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsiveedb1.css?ver=3.4.4' type='text/css' media='all'>
-  <link rel='stylesheet' id='woodmart-style-css' href='../wp-content/themes/woodmart/css/parts/base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-helpers-wpb-elem-css' href='../wp-content/themes/woodmart/css/parts/helpers-wpb-elem.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-recent-post-comments-css' href='../wp-content/themes/woodmart/css/parts/widget-recent-post-comments.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-wd-recent-posts-css' href='../wp-content/themes/woodmart/css/parts/widget-wd-recent-posts.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-nav-css' href='../wp-content/themes/woodmart/css/parts/widget-nav.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-wd-layered-nav-css' href='../wp-content/themes/woodmart/css/parts/woo-widget-wd-layered-nav.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-woo-mod-swatches-base-css' href='../wp-content/themes/woodmart/css/parts/woo-mod-swatches-base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-woo-mod-swatches-filter-css' href='../wp-content/themes/woodmart/css/parts/woo-mod-swatches-filter.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-layered-nav-stock-status-css' href='../wp-content/themes/woodmart/css/parts/woo-widget-layered-nav-stock-status.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-product-list-css' href='../wp-content/themes/woodmart/css/parts/woo-widget-product-list.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-slider-price-filter-css' href='../wp-content/themes/woodmart/css/parts/woo-widget-slider-price-filter.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-wpcf7-css' href='../wp-content/themes/woodmart/css/parts/int-wpcf7.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-elementor-base-css' href='../wp-content/themes/woodmart/css/parts/int-elem-base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-elementor-pro-base-css' href='../wp-content/themes/woodmart/css/parts/int-elementor-pro.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-woocommerce-base-css' href='../wp-content/themes/woodmart/css/parts/woocommerce-base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-mod-star-rating-css' href='../wp-content/themes/woodmart/css/parts/mod-star-rating.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-woo-el-track-order-css' href='../wp-content/themes/woodmart/css/parts/woo-el-track-order.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-woocommerce-block-notices-css' href='../wp-content/themes/woodmart/css/parts/woo-mod-block-notices.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-wp-blocks-css' href='../wp-content/themes/woodmart/css/parts/wp-blocks.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-page-title-css' href='../wp-content/themes/woodmart/css/parts/page-title.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-collapse-css' href='../wp-content/themes/woodmart/css/parts/opt-widget-collapse.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-footer-base-css' href='../wp-content/themes/woodmart/css/parts/footer-base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-scroll-top-css' href='../wp-content/themes/woodmart/css/parts/opt-scrolltotop.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-wd-search-results-css' href='../wp-content/themes/woodmart/css/parts/wd-search-results.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-wd-search-form-css' href='../wp-content/themes/woodmart/css/parts/wd-search-form.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
-  <link rel='stylesheet' id='wd-widget-shopping-cart-css' href='../wp-content/themes/woodmart/css/parts/woo-widget-shopping-cart.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='brands-styles-css' href='../rab-content/plugins/woocommerce/assets/css/brands04d4.css?ver=9.7.1' type='text/css' media='all'>
+  <link rel='stylesheet' id='elementor-frontend-css' href='../rab-content/uploads/elementor/css/custom-frontend.min218f.css?ver=1742530814' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-image-css' href='../rab-content/plugins/elementor/assets/css/widget-image.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-nav-menu-css' href='../rab-content/uploads/elementor/css/custom-pro-widget-nav-menu.min218f.css?ver=1742530814' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-text-editor-css' href='../rab-content/plugins/elementor/assets/css/widget-text-editor.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-heading-css' href='../rab-content/plugins/elementor/assets/css/widget-heading.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-icon-list-css' href='../rab-content/uploads/elementor/css/custom-widget-icon-list.min218f.css?ver=1742530814' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-form-css' href='../rab-content/plugins/elementor-pro/assets/css/widget-form.minb403.css?ver=3.25.3' type='text/css' media='all'>
+  <link rel='stylesheet' id='elementor-post-6-css' href='../rab-content/uploads/elementor/css/post-6218f.css?ver=1742530814' type='text/css' media='all'>
+  <link rel='stylesheet' id='e-popup-style-css' href='../rab-content/plugins/elementor-pro/assets/css/conditionals/popup.minb403.css?ver=3.25.3' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-image-box-css' href='../rab-content/uploads/elementor/css/custom-widget-image-box.min218f.css?ver=1742530814' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-nested-accordion-css' href='../rab-content/plugins/elementor/assets/css/widget-nested-accordion.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
+  <link rel='stylesheet' id='elementor-post-27993-css' href='../rab-content/uploads/elementor/css/post-27993f53a.css?ver=1742538742' type='text/css' media='all'>
+  <link rel='stylesheet' id='elementor-post-27971-css' href='../rab-content/uploads/elementor/css/post-27971218f.css?ver=1742530814' type='text/css' media='all'>
+  <link rel='stylesheet' id='elementor-post-28262-css' href='../rab-content/uploads/elementor/css/post-28262218f.css?ver=1742530814' type='text/css' media='all'>
+  <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='../rab-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticonsedb1.css?ver=3.4.4' type='text/css' media='all'>
+  <link rel='stylesheet' id='ekit-widget-styles-css' href='../rab-content/plugins/elementskit-lite/widgets/init/assets/css/widget-stylesedb1.css?ver=3.4.4' type='text/css' media='all'>
+  <link rel='stylesheet' id='ekit-responsive-css' href='../rab-content/plugins/elementskit-lite/widgets/init/assets/css/responsiveedb1.css?ver=3.4.4' type='text/css' media='all'>
+  <link rel='stylesheet' id='woodmart-style-css' href='../rab-content/themes/woodmart/css/parts/base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-helpers-wpb-elem-css' href='../rab-content/themes/woodmart/css/parts/helpers-wpb-elem.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-recent-post-comments-css' href='../rab-content/themes/woodmart/css/parts/widget-recent-post-comments.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-wd-recent-posts-css' href='../rab-content/themes/woodmart/css/parts/widget-wd-recent-posts.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-nav-css' href='../rab-content/themes/woodmart/css/parts/widget-nav.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-wd-layered-nav-css' href='../rab-content/themes/woodmart/css/parts/woo-widget-wd-layered-nav.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-woo-mod-swatches-base-css' href='../rab-content/themes/woodmart/css/parts/woo-mod-swatches-base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-woo-mod-swatches-filter-css' href='../rab-content/themes/woodmart/css/parts/woo-mod-swatches-filter.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-layered-nav-stock-status-css' href='../rab-content/themes/woodmart/css/parts/woo-widget-layered-nav-stock-status.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-product-list-css' href='../rab-content/themes/woodmart/css/parts/woo-widget-product-list.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-slider-price-filter-css' href='../rab-content/themes/woodmart/css/parts/woo-widget-slider-price-filter.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-wpcf7-css' href='../rab-content/themes/woodmart/css/parts/int-wpcf7.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-elementor-base-css' href='../rab-content/themes/woodmart/css/parts/int-elem-base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-elementor-pro-base-css' href='../rab-content/themes/woodmart/css/parts/int-elementor-pro.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-woocommerce-base-css' href='../rab-content/themes/woodmart/css/parts/woocommerce-base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-mod-star-rating-css' href='../rab-content/themes/woodmart/css/parts/mod-star-rating.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-woo-el-track-order-css' href='../rab-content/themes/woodmart/css/parts/woo-el-track-order.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-woocommerce-block-notices-css' href='../rab-content/themes/woodmart/css/parts/woo-mod-block-notices.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-wp-blocks-css' href='../rab-content/themes/woodmart/css/parts/wp-blocks.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-page-title-css' href='../rab-content/themes/woodmart/css/parts/page-title.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-collapse-css' href='../rab-content/themes/woodmart/css/parts/opt-widget-collapse.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-footer-base-css' href='../rab-content/themes/woodmart/css/parts/footer-base.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-scroll-top-css' href='../rab-content/themes/woodmart/css/parts/opt-scrolltotop.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-wd-search-results-css' href='../rab-content/themes/woodmart/css/parts/wd-search-results.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-wd-search-form-css' href='../rab-content/themes/woodmart/css/parts/wd-search-form.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-widget-shopping-cart-css' href='../rab-content/themes/woodmart/css/parts/woo-widget-shopping-cart.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
   <link rel='stylesheet' id='xts-google-fonts-css' href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700%7CPoppins%3A400%2C600%2C500&amp;ver=8.0.0' type='text/css' media='all'>
   <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CUrbanist%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CNanum+Gothic%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.7.2' type='text/css' media='all'>
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
   <script type="text/javascript" src="../includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
   <script type="text/javascript" src="../includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
-  <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min4a91.js?ver=2.7.0-wc.9.7.1" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+  <script type="text/javascript" src="../rab-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min4a91.js?ver=2.7.0-wc.9.7.1" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
   <script type="text/javascript" id="wc-add-to-cart-js-extra">
   /* <![CDATA[ */
-  var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/rabbitaitv.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+  var wc_add_to_cart_params = {"ajax_url":"\/rab-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/rabbitaitv.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
   /* ]]> */
   </script>
-  <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min04d4.js?ver=9.7.1" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
-  <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min73a9.js?ver=2.1.4-wc.9.7.1" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+  <script type="text/javascript" src="../rab-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min04d4.js?ver=9.7.1" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+  <script type="text/javascript" src="../rab-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min73a9.js?ver=2.1.4-wc.9.7.1" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
   <script type="text/javascript" id="woocommerce-js-extra">
   /* <![CDATA[ */
-  var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
+  var woocommerce_params = {"ajax_url":"\/rab-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
   /* ]]> */
   </script>
-  <script type="text/javascript" src="../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min04d4.js?ver=9.7.1" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+  <script type="text/javascript" src="../rab-content/plugins/woocommerce/assets/js/frontend/woocommerce.min04d4.js?ver=9.7.1" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
   <script type="text/javascript" src="../../stats.wp.com/s-202512.js" id="woocommerce-analytics-js" defer="defer" data-wp-strategy="defer"></script>
-  <script type="text/javascript" src="../wp-content/themes/woodmart/js/libs/device.min8c3f.js?ver=8.0.0" id="wd-device-library-js"></script>
-  <script type="text/javascript" src="../wp-content/themes/woodmart/js/scripts/global/scrollBar.min8c3f.js?ver=8.0.0" id="wd-scrollbar-js"></script>
+  <script type="text/javascript" src="../rab-content/themes/woodmart/js/libs/device.min8c3f.js?ver=8.0.0" id="wd-device-library-js"></script>
+  <script type="text/javascript" src="../rab-content/themes/woodmart/js/scripts/global/scrollBar.min8c3f.js?ver=8.0.0" id="wd-scrollbar-js"></script>
   <link rel="https://api.w.org/" href="../wp-json/index.php">
   <link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/27993.json">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd">
-  <meta name="generator" wp-content="WordPress 6.7.2">
+  <meta name="generator" rab-content="WordPress 6.7.2">
   <link rel='shortlink' href='../index4360.html?p=27993'>
   <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embedfc90.json?url=https%3A%2F%2Frabbitaitv.com%2Fsetup-guide%2F">
   <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedfaef?url=https%3A%2F%2Frabbitaitv.com%2Fsetup-guide%2F&amp;format=xml">
   <style>
   img#wpstats{display:none}
   </style>
-  <meta name="viewport" wp-content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><noscript>
+  <meta name="viewport" rab-content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><noscript>
   <style>
 
   .woocommerce-product-gallery{ opacity: 1 !important; }
   </style></noscript>
-  <meta name="generator" wp-content="Elementor 3.27.6; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+  <meta name="generator" rab-content="Elementor 3.27.6; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
   <style type="text/css">
   .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
   </style>
@@ -146,13 +146,13 @@
                                 }
   </style>
   <style class='wp-fonts-local' type='text/css'>
-  @font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('../wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt%2cwght.woff2') format('woff2');font-stretch:normal;}
-  @font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('../wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
+  @font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('../rab-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt%2cwght.woff2') format('woff2');font-stretch:normal;}
+  @font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('../rab-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
   </style>
-  <link rel="icon" href="../wp-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-32x32.png" sizes="32x32">
-  <link rel="icon" href="../wp-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-192x192.png" sizes="192x192">
-  <link rel="apple-touch-icon" href="../wp-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-180x180.png">
-  <meta name="msapplication-TileImage" wp-content="https://rabbitaitv.com/wp-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-270x270.png">
+  <link rel="icon" href="../rab-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-32x32.png" sizes="32x32">
+  <link rel="icon" href="../rab-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-192x192.png" sizes="192x192">
+  <link rel="apple-touch-icon" href="../rab-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-180x180.png">
+  <meta name="msapplication-TileImage" rab-content="https://rabbitaitv.com/rab-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-270x270.png">
   <style id="wd-style-header_802259-css" data-type="wd-style-header_802259">
                                 :root{
         --wd-top-bar-h: 42px;
@@ -256,21 +256,21 @@
         font-weight: normal;
         font-style: normal;
         font-family: "woodmart-font";
-        src: url("../wp-content/themes/woodmart/fonts/woodmart-font-1-400c505.woff2?v=8.0.0") format("woff2");
+        src: url("../rab-content/themes/woodmart/fonts/woodmart-font-1-400c505.woff2?v=8.0.0") format("woff2");
   }
 
   @font-face {
         font-family: "star";
         font-weight: 400;
         font-style: normal;
-        src: url("../wp-content/plugins/woocommerce/assets/fonts/star.html?#iefix") format("embedded-opentype"), url("../wp-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"), url("../wp-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"), url("../wp-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
+        src: url("../rab-content/plugins/woocommerce/assets/fonts/star.html?#iefix") format("embedded-opentype"), url("../rab-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"), url("../rab-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"), url("../rab-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
   }
 
   @font-face {
         font-family: "WooCommerce";
         font-weight: 400;
         font-style: normal;
-        src: url("../wp-content/plugins/woocommerce/assets/fonts/WooCommerce.html?#iefix") format("embedded-opentype"), url("../wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"), url("../wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"), url("../wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
+        src: url("../rab-content/plugins/woocommerce/assets/fonts/WooCommerce.html?#iefix") format("embedded-opentype"), url("../rab-content/plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"), url("../rab-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"), url("../rab-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
   }
 
   :root {
@@ -309,7 +309,7 @@
         --notices-warning-bg: #E0B252;
         --notices-warning-color: #fff;
   }
-  .woodmart-woocommerce-layered-nav .wd-scroll-wp-content {
+  .woodmart-woocommerce-layered-nav .wd-scroll-rab-content {
         max-height: 223px;
   }
   .wd-popup.wd-age-verify {
@@ -317,7 +317,7 @@
   }
   .wd-popup.wd-promo-popup {
         background-color: #111111;
-        background-image: url(../wp-content/uploads/2021/08/promo-popup.jpg);
+        background-image: url(../rab-content/uploads/2021/08/promo-popup.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center center;
@@ -383,7 +383,7 @@
         <div class="elementor-element elementor-element-f7c7969 e-con-full e-flex e-con e-child" data-id="f7c7969" data-element_type="container">
           <div class="elementor-element elementor-element-55ef903 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="55ef903" data-element_type="widget" data-widget_type="theme-site-logo.default">
             <div class="elementor-widget-container">
-              <a href="../index.php"><img fetchpriority="high" width="605" height="160" src="../wp-content/uploads/logo.png" class="attachment-full size-full wp-image-28664" alt="e4d06eec-2a3d-48a9-8648-16db7f4f1bde" srcset="../wp-content/uploads/logo.png 605w, ../wp-content/uploads/logo.png 430w, ../wp-content/uploads/logo.png 150w, ../wp-content/uploads/logo.png 400w" sizes="(max-width: 605px) 100vw, 605px"></a>
+              <a href="../index.php"><img fetchpriority="high" width="605" height="160" src="../rab-content/uploads/logo.png" class="attachment-full size-full wp-image-28664" alt="e4d06eec-2a3d-48a9-8648-16db7f4f1bde" srcset="../rab-content/uploads/logo.png 605w, ../rab-content/uploads/logo.png 430w, ../rab-content/uploads/logo.png 150w, ../rab-content/uploads/logo.png 400w" sizes="(max-width: 605px) 100vw, 605px"></a>
             </div>
           </div>
         </div>
@@ -440,7 +440,7 @@
           <div class="elementor-element elementor-element-89e5638 elementor-align-center elementor-widget elementor-widget-button" data-id="89e5638" data-element_type="widget" data-widget_type="button.default">
             <div class="elementor-widget-container">
               <div class="elementor-button-wrapper">
-                <a class="elementor-button elementor-button-link elementor-size-sm" href="../plans/index.php"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Get Started</span></span></a>
+                <a class="elementor-button elementor-button-link elementor-size-sm" href="../plans/index.php"><span class="elementor-button-rab-content-wrapper"><span class="elementor-button-text">Get Started</span></span></a>
               </div>
             </div>
           </div>
