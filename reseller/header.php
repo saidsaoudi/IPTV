@@ -29,7 +29,6 @@
   <style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
   .jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
   </style>
-  <link rel='stylesheet' id='nta-css-popup-css' href='../rab-content/plugins/wp-whatsapp/assets/dist/css/styled1c0.css?ver=6.7.2' type='text/css' media='all'>
   <style id='classic-theme-styles-inline-css' type='text/css'>
   /*! This file is auto-generated */
   .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -105,7 +104,6 @@
   /* ]]> */
   </script>
   <script type="text/javascript" src="../rab-content/plugins/woocommerce/assets/js/frontend/woocommerce.min04d4.js?ver=9.7.1" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
-  <script type="text/javascript" src="../../stats.wp.com/s-202512.js" id="woocommerce-analytics-js" defer="defer" data-wp-strategy="defer"></script>
   <script type="text/javascript" src="../rab-content/themes/woodmart/js/libs/device.min8c3f.js?ver=8.0.0" id="wd-device-library-js"></script>
   <script type="text/javascript" src="../rab-content/themes/woodmart/js/scripts/global/scrollBar.min8c3f.js?ver=8.0.0" id="wd-scrollbar-js"></script>
   <link rel="https://api.w.org/" href="../wp-json/index.php">

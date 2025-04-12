@@ -221,45 +221,6 @@
   <script type="text/javascript" src="../rab-content/themes/woodmart/js/scripts/wc/updateCartFragmentsFix8c3f.js?ver=8.0.0" id="wd-update-cart-fragments-fix-js"></script> 
   <script type="text/javascript" src="../includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script> 
   <script type="text/javascript" src="../includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script> 
-  <script type="text/javascript" id="wp-i18n-js-after">
-
-
-  /* <![CDATA[ */
-  wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-  /* ]]> */
-  </script> 
-  <script type="text/javascript" src="../rab-content/plugins/contact-form-7/includes/swv/js/index37ad.js?ver=6.0.1" id="swv-js"></script> 
-  <script type="text/javascript" id="contact-form-7-js-before">
-
-
-  /* <![CDATA[ */
-  var wpcf7 = {
-    "api": {
-        "root": "https:\/\/rabbitaitv.com\/wp-json\/",
-        "namespace": "contact-form-7\/v1"
-    },
-    "cached": 1
-  };
-  /* ]]> */
-  </script> 
-  <script type="text/javascript" src="../rab-content/plugins/contact-form-7/includes/js/index37ad.js?ver=6.0.1" id="contact-form-7-js"></script> 
-  <script type="text/javascript" id="wp-statistics-tracker-js-extra">
-
-
-  /* <![CDATA[ */
-  var WP_Statistics_Tracker_Object = {"requestUrl":"https:\/\/rabbitaitv.com\/wp-json\/wp-statistics\/v2","ajaxUrl":"https:\/\/rabbitaitv.com\/rab-admin\/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"page","source_id":27991,"search_query":"","signature":"d88b868cb180e5135196f534a243b991","endpoint":"hit"},"onlineParams":{"wp_statistics_hit":1,"source_type":"page","source_id":27991,"search_query":"","signature":"d88b868cb180e5135196f534a243b991","endpoint":"online"},"option":{"userOnline":true,"consentLevel":"disabled","dntEnabled":false,"bypassAdBlockers":false,"isWpConsentApiActive":false,"trackAnonymously":false,"isPreview":false},"jsCheckTime":"60000"};
-  /* ]]> */
-  </script> 
-  <script type="text/javascript" src="../rab-content/plugins/wp-statistics/assets/js/tracker4350.js?ver=14.11.4" id="wp-statistics-tracker-js"></script> 
-  <script type="text/javascript" src="../rab-content/plugins/wp-whatsapp/assets/dist/js/njt-whatsapp0527.js?ver=3.6.9" id="nta-wa-libs-js"></script> 
-  <script type="text/javascript" id="nta-js-global-js-extra">
-
-
-  /* <![CDATA[ */
-  var njt_wa_global = {"ajax_url":"https:\/\/rabbitaitv.com\/rab-admin\/admin-ajax.php","nonce":"a96257cbee","defaultAvatarSVG":"<svg width=\"48px\" height=\"48px\" class=\"nta-whatsapp-default-avatar\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n            viewBox=\"0 0 512 512\" style=\"enable-background:new 0 0 512 512;\" xml:space=\"preserve\">\n            <path style=\"fill:#EDEDED;\" d=\"M0,512l35.31-128C12.359,344.276,0,300.138,0,254.234C0,114.759,114.759,0,255.117,0\n            S512,114.759,512,254.234S395.476,512,255.117,512c-44.138,0-86.51-14.124-124.469-35.31L0,512z\"\/>\n            <path style=\"fill:#55CD6C;\" d=\"M137.71,430.786l7.945,4.414c32.662,20.303,70.621,32.662,110.345,32.662\n            c115.641,0,211.862-96.221,211.862-213.628S371.641,44.138,255.117,44.138S44.138,137.71,44.138,254.234\n            c0,40.607,11.476,80.331,32.662,113.876l5.297,7.945l-20.303,74.152L137.71,430.786z\"\/>\n            <path style=\"fill:#FEFEFE;\" d=\"M187.145,135.945l-16.772-0.883c-5.297,0-10.593,1.766-14.124,5.297\n            c-7.945,7.062-21.186,20.303-24.717,37.959c-6.179,26.483,3.531,58.262,26.483,90.041s67.09,82.979,144.772,105.048\n            c24.717,7.062,44.138,2.648,60.028-7.062c12.359-7.945,20.303-20.303,22.952-33.545l2.648-12.359\n            c0.883-3.531-0.883-7.945-4.414-9.71l-55.614-25.6c-3.531-1.766-7.945-0.883-10.593,2.648l-22.069,28.248\n            c-1.766,1.766-4.414,2.648-7.062,1.766c-15.007-5.297-65.324-26.483-92.69-79.448c-0.883-2.648-0.883-5.297,0.883-7.062\n            l21.186-23.834c1.766-2.648,2.648-6.179,1.766-8.828l-25.6-57.379C193.324,138.593,190.676,135.945,187.145,135.945\"\/>\n        <\/svg>","defaultAvatarUrl":"https:\/\/rabbitaitv.com\/rab-content\/plugins\/wp-whatsapp\/assets\/img\/whatsapp_logo.svg","timezone":"+00:00","i18n":{"online":"Online","offline":"Offline"},"urlSettings":{"onDesktop":"api","onMobile":"api","openInNewTab":"ON"}};
-  /* ]]> */
-  </script> 
-  <script type="text/javascript" src="../rab-content/plugins/wp-whatsapp/assets/js/whatsapp-button0527.js?ver=3.6.9" id="nta-js-global-js"></script> 
   <script type="text/javascript" src="../rab-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min1576.js?ver=1.2.1" id="smartmenus-js"></script> 
   <script type="text/javascript" src="../rab-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-scriptedb1.js?ver=3.4.4" id="elementskit-framework-js-frontend-js"></script> 
   <script type="text/javascript" id="elementskit-framework-js-frontend-js-after">
@@ -315,7 +276,6 @@
   var ekit_config = {"ajaxurl":"https:\/\/rabbitaitv.com\/rab-admin\/admin-ajax.php","nonce":"436c3a50ac"};
   /* ]]> */
   </script> 
-  <script type="text/javascript" src="../rab-content/plugins/elementskit-lite/widgets/init/assets/js/elementoredb1.js?ver=3.4.4" id="elementskit-elementor-js"></script> 
   <script type="text/javascript" id="woodmart-theme-js-extra">
 
 
@@ -326,7 +286,6 @@
   </script> 
   <script type="text/javascript" src="../rab-content/themes/woodmart/js/scripts/global/helpers.min8c3f.js?ver=8.0.0" id="woodmart-theme-js"></script> 
   <script type="text/javascript" src="../rab-content/themes/woodmart/js/scripts/wc/woocommerceNotices.min8c3f.js?ver=8.0.0" id="wd-woocommerce-notices-js"></script> 
-  <script type="text/javascript" src="../../stats.wp.com/e-202512.js" id="jetpack-stats-js" data-wp-strategy="defer"></script> 
   <script type="text/javascript" id="jetpack-stats-js-after">
 
 
@@ -360,7 +319,6 @@
   window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['46802826'] = {"default_language":"en","languages":["nl","en","fr","de","it","pt","ru","es"],"url_structure":"none","detect_browser_language":1,"flag_style":"2d","wrapper_selector":"#gt-wrapper-46802826","alt_flags":[],"float_switcher_open_direction":"top","switcher_horizontal_position":"left","switcher_vertical_position":"bottom","flags_location":"\/rab-content\/plugins\/gtranslate\/flags\/"};
   /* ]]> */
   </script> 
-  <script src="../rab-content/plugins/gtranslate/js/floatd1c0.js?ver=6.7.2" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/plans/" data-gt-orig-domain="rabbitaitv.com" data-gt-widget-id="46802826" defer></script> 
   <script type="text/javascript" id="nta-js-popup-js-extra">
 
 
@@ -368,6 +326,5 @@
   var njt_wa = {"gdprStatus":"","accounts":[{"accountId":28585,"accountName":"Support","avatar":"","number":"+33607249310","title":"Support","predefinedText":"","willBeBackText":"I will be back in [njwa_time_work]","dayOffsText":"I will be back soon","isAlwaysAvailable":"ON","daysOfWeekWorking":{"sunday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"monday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"tuesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"wednesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"thursday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"friday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"saturday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]}}}],"options":{"display":{"displayCondition":"showAllPage","includePages":[],"excludePages":[],"includePosts":[],"showOnDesktop":"ON","showOnMobile":"ON","time_symbols":"h:m"},"styles":{"title":"Start a Conversation","responseText":"The team typically replies in a few minutes.","description":"Hi! Click one of our member below to chat on <strong>WhatsApp<\/strong>","backgroundColor":"#2db742","textColor":"#fff","titleSize":"18","accountNameSize":"14","descriptionTextSize":"12","regularTextSize":"11","scrollHeight":"500","isShowScroll":"OFF","isShowResponseText":"OFF","isShowPoweredBy":"ON","btnLabel":"Need Help? <strong>Chat with us<\/strong>","btnLabelWidth":"162","btnPosition":"right","btnLeftDistance":"30","btnRightDistance":"30","btnBottomDistance":"81","isShowBtnLabel":"ON","isShowGDPR":"OFF","gdprrab-content":"Please accept our <a href=\"https:\/\/ninjateam.org\/privacy-policy\/\">privacy policy<\/a> first to start a conversation."},"analytics":{"enabledGoogle":"OFF","enabledFacebook":"OFF","enabledGoogleGA4":"OFF"}}};
   /* ]]> */
   </script> 
-  <script type="text/javascript" src="../rab-content/plugins/wp-whatsapp/assets/js/whatsapp-popup0527.js?ver=3.6.9" id="nta-js-popup-js"></script>
 </body>
 </html>
