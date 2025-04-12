@@ -710,7 +710,7 @@
                       <div class="elementor-element elementor-element-a6b9a36 elementor-align-justify elementor-widget elementor-widget-button" data-id="a6b9a36" data-element_type="widget" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                           <div class="elementor-button-wrapper">
-                            <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/2b7d9h" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
+                            <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/ueygok" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
                           </div>
                         </div>
                       </div>
