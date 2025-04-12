@@ -72,7 +72,7 @@
                                     <div class="elementor-element elementor-element-3585044 elementor-align-justify elementor-widget elementor-widget-button" data-id="3585044" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/1y718a" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/ueygok" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -126,7 +126,7 @@
                                     <div class="elementor-element elementor-element-e4fcb50 elementor-align-justify elementor-widget elementor-widget-button" data-id="e4fcb50" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/yylh7h" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/ueygok" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -180,7 +180,7 @@
                                     <div class="elementor-element elementor-element-6520519 elementor-align-justify elementor-widget elementor-widget-button" data-id="6520519" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/lpnjva" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/ueygok" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -292,7 +292,7 @@
                                     <div class="elementor-element elementor-element-0b2e64d elementor-align-justify elementor-widget elementor-widget-button" data-id="0b2e64d" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/mihbfl" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/ueygok" target="_blank" rel="noopener"><span class="elementor-button-wp-content-wrapper"><span class="elementor-button-text">Select</span></span></a>
                                         </div>
                                       </div>
                                     </div>
