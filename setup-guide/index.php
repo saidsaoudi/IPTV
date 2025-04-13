@@ -72,6 +72,31 @@
                               <img src="../rab-content/uploads/t13.jpeg" />
                               <p class="mt-3">Scroll down and you will see the app appears at the bottom so press select to launch it.</p>
                               <img src="../rab-content/uploads/t14.jpeg" />
+                              <p class="mt-3">When launching it for the first time you will be asked to agree with their user agreement so simply click on the<strong> Accept </strong>button.</p>
+                              <img src="../rab-content/uploads/t15.jpeg" />
+                              <p class="mt-3">Once it’s done from the next you will be asked to Add a User so for this just click on the Add User button.</p>
+                              <img src="../rab-content/uploads/t16.jpeg" />
+                              <p class="mt-3">From the next screen, you will notice multiple options to Log Into the Smarters Pro. Now you need to choose<strong> Login with Xtreme Codes API</strong> which is the fast method.</p>
+                              <img src="../rab-content/uploads/t17.jpeg" />
+                              <p>After that you will notice various fields appear there so you need to fill them as follow:</p>
+                              <p><strong>Any Name:</strong> Type the name of your user.</p>
+                              <p><strong>Username:</strong> Write the username provided by the seller.</p>
+                              <p><strong>Password:</strong> It is also provided by the 4KIPTV provider.</p>
+                              <p><strong>URL: </strong>Just copy the portal URL from the 4KIPTV provider and paste it here.</p>
+                              <p>Once you filled every field just click on the<strong> Add User </strong>and it will create a new profile.</p>
+                              <img src="../rab-content/uploads/t18.png" />
+                              <p>After that, you will notice the<strong> user</strong> is listed on your screen so click the User that you created.</p>
+                              <img src="../rab-content/uploads/t19.jpeg" />
+                              <p class="mt-3">From the next screen, it shows<strong> Downloading Live Channels, Movies, and TV Shows</strong> so just wait for a while until it completes.</p>
+                              <img src="../rab-content/uploads/t20.png" />
+                              <p>Once the downloading is completed a simple interface will appear with<strong> Live TV, Series, Movies, and other options.</strong> Now you just need to select any of these options and then it will Show Content available in that category</p>
+                              <p><strong>How to setup IBO Player Pro on Fire TV Stick</strong></p>
+                              <p>1.  Open the <strong>Downloader</strong> app</p>
+                              <p>On this screen, you need to click the URL textbox on the right side (make sure Home option in the left menu is selected) where it says ‘http://’</p>
+                              <img src="../rab-content/uploads/t21.png" />
+                              <p class="mt-3">2. Go ahead and enter the following path on this window:<strong> http://ibodesk.com/media.apk ( Or, you can simply enter the downloader code: 532837 ) Click GO</strong></p>
+                              <p>3. Give it a minute or two until the IBO Player app is downloaded onto your FireStick device</p>
+                              <p>4. When the download has completed, the Downloader app will run the APK file and the installation will start<strong> Click Install</strong></p>
                             </div>
                           </div>
                           <div id="e-n-tab-content-565815082" role="tabpanel" aria-labelledby="e-n-tab-title-565815082" data-tab-index="2" style="--n-tabs-title-order: 2;" class="elementor-element elementor-element-f34b2ce e-con-full e-flex e-con e-child e-active" data-id="f34b2ce" data-element_type="container">
