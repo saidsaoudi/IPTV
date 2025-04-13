@@ -28,12 +28,29 @@
                         </div>
                         <div class="e-n-tabs-content">
                           <div id="e-n-tab-content-565815081" role="tabpanel" aria-labelledby="e-n-tab-title-565815081" data-tab-index="1" style="--n-tabs-title-order: 1;" class="elementor-element elementor-element-15ca015 e-con-full e-flex e-con e-child" data-id="15ca015" data-element_type="container">
-                            <div class="elementor-element elementor-element-91d5e71 e-con-full e-flex e-con e-child" data-id="91d5e71" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                              FireTVStick                            
+                            <div class="elementor-element elementor-element-91d5e71 mt-3 e-con-full e-flex e-child" data-id="91d5e71" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                              <h4>Note: To access our 4K IPTV service, you can install any app or player. In this beginner's tutorial, we will provide examples using the 4K IPTV smarter app ( free app), Ibo Player app and the Tivimate app.</h4>
+                              <h4>How to setup 4K IPTV Smarter on Fire TV Stick</h4>
+                              <p>From the home screen of your device, hover over the Find option.</p>
+                              <p>1. We will first install the Downloader app</p>
+                              <p>This app will help you sideload 4K IPTV Smarter on FireStick (because browser downloads are not allowed)</p>
+                              <p>2. Click the Find > Search option on the home screen of FireStick</p>
+                              <img src="../rab-content/uploads/t1.jpeg" />
+                              <p class="mt-3">3. Type the name of the app (which is Downloader)</p>
+                              <p>Click the Downloader option when it is displayed in the search results</p>
+                              <p>Choose the Downloader icon on the following screen and download and install the app</p>
+                              <img src="../rab-content/uploads/t2.jpeg" />
+                              <p class="mt-3">4. Get back to the home screen of FireStick after installing the Downloader app In the menu bar,<strong> click Settings</strong></p>
+                              <img src="../rab-content/uploads/t3.jpeg" />
+                              <p class="mt-3">5. In the Settings, choose the option <strong>My Fire TV</strong></p>
+                              <img src="../rab-content/uploads/t4.jpeg" />
+                              <p class="mt-3">6. When the following set of options are displayed on the next screen, click<strong> Developer Options</strong></p>
+                              <img src="../rab-content/uploads/t5.jpeg" />
+                              <p class="mt-3">7. Click <strong>Install from unknown apps</strong></p>
                             </div>
                           </div>
                           <div id="e-n-tab-content-565815082" role="tabpanel" aria-labelledby="e-n-tab-title-565815082" data-tab-index="2" style="--n-tabs-title-order: 2;" class="elementor-element elementor-element-f34b2ce e-con-full e-flex e-con e-child e-active" data-id="f34b2ce" data-element_type="container">
-                            <div class="elementor-element elementor-element-f62161d e-con-full e-flex e-con e-child" data-id="f62161d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-element elementor-element-f62161d e-con-full e-flex mt-3 e-child" data-id="f62161d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                               ANDROID
                             </div>
                           </div>
