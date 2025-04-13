@@ -47,6 +47,31 @@
                               <p class="mt-3">6. When the following set of options are displayed on the next screen, click<strong> Developer Options</strong></p>
                               <img src="../rab-content/uploads/t5.jpeg" />
                               <p class="mt-3">7. Click <strong>Install from unknown apps</strong></p>
+                              <img src="../rab-content/uploads/t6.jpeg" />
+                              <p class="mt-3">8. Click <strong>to change the status to</strong><strong>ON</strong></p>
+                              <img src="../rab-content/uploads/t7.jpeg" />
+                              <p class="mt-3">With this, you have configured the FireStick settings to allow the installation of IPTV Smarters and other third-party apps. Follow the steps below:</p>
+                              <p class="mt-3">9. You may now open the <strong>Downloader</strong> app</p>
+                              <p>When you run this app for the first time, a set of prompts will appear. Dismiss them until you see the following screen</p>
+                              <p>On this screen, you need to click the URL textbox on the right side (make sure Home option in the left menu is selected) where it says ‘http://’</p>
+                              <img src="../rab-content/uploads/t8.png" />
+                              <p class="mt-3">10. Go ahead and enter the following path on this window:<a href="https://bit.ly/mainsmart"> https://bit.ly/mainsmart </a> Click <strong>GO</strong></p>
+                              <p>11. Give it a minute or two until the IPTV Smarter is downloaded onto your FireStick device</p>
+                              <img src="../rab-content/uploads/t9.jpeg" />
+                              <p class="mt-3">12. When the download has completed, the Downloader app will run the APK file and the installation will start Click<strong> Install</strong></p>
+                              <img src="../rab-content/uploads/t10.jpeg" />
+                              <p class="mt-3">13. Wait for the installation to finish</p>
+                              <p class="mt-3">14. Installation is concluded with the <strong>App installed</strong> notification</p>
+                              <p>You may now choose to click OPEN and get started with IPTV Smarters</p>
+                              <p>I recommend choosing DONE so that you may first delete the APK file and save some space on the FireStick storage</p>
+                              <img src="../rab-content/uploads/t11.jpeg" />
+                              <p>15. If you clicked DONE above, you will be back on the Downloader interface Click<strong> Delete</strong></p>
+                              <img src="../rab-content/uploads/t12.jpeg" />
+                              <p class="mt-3">Great! You now have the IPTV Smarters app on FireStick.</p>
+                              <p><strong>Launch IPTV Smarters on Firestick</strong> either by going to Your Apps & Channels section or pressing & hold the Home button and then select <strong>Apps</strong> from the next screen.</p>
+                              <img src="../rab-content/uploads/t13.jpeg" />
+                              <p class="mt-3">Scroll down and you will see the app appears at the bottom so press select to launch it.</p>
+                              <img src="../rab-content/uploads/t14.jpeg" />
                             </div>
                           </div>
                           <div id="e-n-tab-content-565815082" role="tabpanel" aria-labelledby="e-n-tab-title-565815082" data-tab-index="2" style="--n-tabs-title-order: 2;" class="elementor-element elementor-element-f34b2ce e-con-full e-flex e-con e-child e-active" data-id="f34b2ce" data-element_type="container">
