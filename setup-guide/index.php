@@ -129,27 +129,63 @@
                           </div>
                           <div id="e-n-tab-content-565815082" role="tabpanel" aria-labelledby="e-n-tab-title-565815082" data-tab-index="2" style="--n-tabs-title-order: 2;" class="elementor-element elementor-element-f34b2ce e-con-full e-flex e-con e-child e-active" data-id="f34b2ce" data-element_type="container">
                             <div class="elementor-element elementor-element-f62161d e-con-full e-flex mt-3 e-child" data-id="f62161d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                              ANDROID
+                              <h4 class="mt-3">How to setup IPTV on Android with IPTV Smarters Player</h4>
+                              <p>Step 1: Start by downloading IPTV Smarters app  through this URL : <a href="https://www.iptvsmarters.com/smarters.apk">https://www.iptvsmarters.com/smarters.apk</a></p>
+                              <p>Step 2: Open the app once downloaded and Enter the login details.</p>
+                              <img src="../rab-content/uploads/t31.png" />
+                              <p  class="mt-3">Step 3: Enter the login details that we have provided you after you get a subscription with us</p>
+                              <p>Now Click on “ADD USER” to proceed to the next section.</p>
+                              <p>Step 4: Wait some seconds.</p>
+                              <p>Step 5: Now click on “Live TV” icon as depicted in the image via a red arrow.</p>
+                              <img src="../rab-content/uploads/t32.png" />
+                              <p class="mt-3">Step 6: Now you must select the channel group that you want to watch and proceed to the next section.</p>
+                              <p>Step 7: Now you must click on the channel name and then double click on the small screen to turn into full screen as the final step.</p>
+                              <p><strong>Done</strong></p>
                             </div>
                           </div>
                           <div id="e-n-tab-content-565815083" role="tabpanel" aria-labelledby="e-n-tab-title-565815083" data-tab-index="3" style="--n-tabs-title-order: 3;" class="elementor-element elementor-element-4b1c0a4 e-con-full e-flex e-con e-child" data-id="4b1c0a4" data-element_type="container">
-                            <div class="elementor-element elementor-element-d6f174c e-con-full e-flex e-con e-child" data-id="d6f174c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                              Apple/IOS
+                            <div class="elementor-element elementor-element-d6f174c e-con-full e-flex  e-child" data-id="d6f174c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                              <h4 class="mt-3">How To Setup IPTV On Apple/IOS With IPTV Smarters Player</h4>
+                              <p>Step 1: Start by downloading IPTV Smarters app from the Apple Store through this URL :<a href="https://apps.apple.com/in/app/smarters-player-lite/id1628995509">https://apps.apple.com/in/app/smarters-player-lite/id1628995509</a></p>
+                              <p>or  you can search for it on App store</p>
+                              <p>install the app on your IOS device.</p>
+                              <p>Step 2: Open the app once downloaded and Enter the login details.</p>
+                              <img src="../rab-content/uploads/t31.png" />
+                              <p  class="mt-3">Step 3: Enter the login details that we have provided you after you get a subscription with us</p>
+                              <p>Now Click on “ADD USER” to proceed to the next section.</p>
+                              <p>Step 4: Wait some seconds.</p>
+                              <p>Step 5: Now click on “Live TV” icon as depicted in the image via a red arrow.</p>
+                              <img src="../rab-content/uploads/t32.png" />
+                              <p class="mt-3">Step 6: Now you must select the channel group that you want to watch and proceed to the next section.</p>
+                              <p>Step 7: Now you must click on the channel name and then double click on the small screen to turn into full screen as the final step.</p>
+                              <p>Step 8: To add EPG no need to add any EPG url, Just click on “Install EPG” .</p>
+                              <p><strong>Done</strong></p>
                             </div>
                           </div>
                           <div id="e-n-tab-content-565815084" role="tabpanel" aria-labelledby="e-n-tab-title-565815084" data-tab-index="4" style="--n-tabs-title-order: 4;" class="elementor-element elementor-element-a16cbe5 e-con-full e-flex e-con e-child" data-id="a16cbe5" data-element_type="container">
-                            <div class="elementor-element elementor-element-e4a40f4 e-con-full e-flex e-con e-child" data-id="e4a40f4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                              Smart TV
+                            <div class="elementor-element elementor-element-e4a40f4 e-con-full e-child" data-id="e4a40f4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                            <h4 class="mt-3">Step 1: You can download  IPTV Smarters from your TV store on Samsung, LG…</h4>
+                              <p>or  you can search for it on App store</p>
+                              <p>Step 2: Open the app once downloaded and Enter the login details.</p>
+                              <img src="../rab-content/uploads/t31.png" />
+                              <p  class="mt-3">Step 3: Enter the login details that we have provided you after you get a subscription with us</p>
+                              <p>P.S.: Sometimes the smart TV doesn’t support the IPTV Smarters app. In such cases, you may need to use another app, such as the iBo Player app.</p>
                             </div>
                           </div>
                           <div id="e-n-tab-content-565815085" role="tabpanel" aria-labelledby="e-n-tab-title-565815085" data-tab-index="5" style="--n-tabs-title-order: 5;" class="elementor-element elementor-element-cf13151 e-con-full e-flex e-con e-child" data-id="cf13151" data-element_type="container">
-                            <div class="elementor-element elementor-element-ccdd451 e-con-full e-flex e-con e-child" data-id="ccdd451" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                              MAG
+                            <div class="elementor-element elementor-element-ccdd451 e-con-full e-child" data-id="ccdd451" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                              <p class="mt-3"><strong>Step 1:</strong></p>
+                              <p>Send us the MAC Address of your MAG via Whatsapp/Email/Live Chat/Order Page</p>
+                              <p class="mt-3"><strong>Step 2:</strong></p>
+                              <p>After making the payment, we will send you the portal link </p>
                             </div>
                           </div>
                           <div id="e-n-tab-content-565815086" role="tabpanel" aria-labelledby="e-n-tab-title-565815086" data-tab-index="5" style="--n-tabs-title-order: 6;" class="elementor-element elementor-element-cf13151 e-con-full e-flex e-con e-child" data-id="cf13151" data-element_type="container">
-                            <div class="elementor-element elementor-element-ccdd451 e-con-full e-flex e-con e-child" data-id="ccdd451" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                            Windows/MAC
+                            <div class="elementor-element elementor-element-ccdd451 e-con-full e-child" data-id="ccdd451" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                              <p class="mt-3"><strong>Windows Method:</strong></p>
+                              <p>Download IPTV Smarters app through this URL :<a href="https://www.iptvsmarters.com/download?download=windows_ap"> https://www.iptvsmarters.com/download?download=windows_ap</a></p>
+                              <p class="mt-3"><strong>MAC Method:</strong></p>
+                              <p>Download IPTV Smarters app through this URL :<a href="https://www.iptvsmarters.com/download?download=mac"> https://www.iptvsmarters.com/download?download=mac</a></p>
                             </div>
                           </div>
                         </div>
