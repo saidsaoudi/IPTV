@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="rab-content-type" rab-content="text/html;charset=UTF-8">
+  <meta charset="UTF-8">
   <link rel="profile" href="https://gmpg.org/xfn/11">
   <link rel="pingback" href="../xmlrpc.php">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
   <script>
   window._wca = window._wca || [];
   </script>
-  <title>Setup Guide - Rabbitaitv</title>
+  <title>Setup Guide - rabbitaitv</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <script type="application/ld+json" class="rank-math-schema">
-  {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rabbitaitv.com/#organization","name":"Rabbitaitv","logo":{"@type":"ImageObject","@id":"https://rabbitaitv.com/#logo","url":"https://rabbitaitv.com/rab-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","rab-contentUrl":"https://rabbitaitv.com/rab-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","caption":"Rabbitaitv","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://rabbitaitv.com/#website","url":"https://rabbitaitv.com","name":"Rabbitaitv","publisher":{"@id":"https://rabbitaitv.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://rabbitaitv.com/rab-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png","url":"https://rabbitaitv.com/rab-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rabbitaitv.com/setup-guide/#webpage","url":"https://rabbitaitv.com/setup-guide/","name":"Setup Guide - Rabbitaitv","datePublished":"2024-11-24T19:37:05+00:00","dateModified":"2024-12-01T23:54:27+00:00","isPartOf":{"@id":"https://rabbitaitv.com/#website"},"primaryImageOfPage":{"@id":"https://rabbitaitv.com/rab-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv","url":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","caption":"Rabbitaitv","inLanguage":"en-US"},"sameAs":["https://rabbitaitv.com"],"worksFor":{"@id":"https://rabbitaitv.com/#organization"}},{"@type":"Article","headline":"Setup Guide - Rabbitaitv","datePublished":"2024-11-24T19:37:05+00:00","dateModified":"2024-12-01T23:54:27+00:00","author":{"@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv"},"publisher":{"@id":"https://rabbitaitv.com/#organization"},"description":"Setting up IPTV can seem overwhelming at first, but don\u2019t worry \u2013 with our step-by-step guide, you\u2019ll be up and running in no time. Whether you\u2019re a","name":"Setup Guide - Rabbitaitv","@id":"https://rabbitaitv.com/setup-guide/#richSnippet","isPartOf":{"@id":"https://rabbitaitv.com/setup-guide/#webpage"},"image":{"@id":"https://rabbitaitv.com/rab-content/uploads/2024/12/AMAZON-FIRE-TV-STICK-300x133-1.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rabbitaitv.com/setup-guide/#webpage"}}]}
+  {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rabbitaitv.com/#organization","name":"Rabbitaitv","logo":{"@type":"ImageObject","@id":"https://rabbitaitv.com/#logo","url":"https://rabbitaitv.com/rab-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","rab-contentUrl":"https://rabbitaitv.com/rab-content/uploads/2024/11/e4d06eec-2a3d-48a9-8648-16db7f4f1bde-150x150.png","caption":"Rabbitaitv","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://rabbitaitv.com/#website","url":"https://rabbitaitv.com","name":"Rabbitaitv","publisher":{"@id":"https://rabbitaitv.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rabbitaitv.com/plans/#webpage","url":"https://rabbitaitv.com/plans/","name":"Plans - Rabbitaitv","datePublished":"2024-11-24T19:36:34+00:00","dateModified":"2025-02-20T02:56:16+00:00","isPartOf":{"@id":"https://rabbitaitv.com/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv","url":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4f3dec871e1a8e02449155d053631498?s=96&amp;d=mm&amp;r=g","caption":"Rabbitaitv","inLanguage":"en-US"},"sameAs":["https://rabbitaitv.com"],"worksFor":{"@id":"https://rabbitaitv.com/#organization"}},{"@type":"Article","headline":"Plans - Rabbitaitv","datePublished":"2024-11-24T19:36:34+00:00","dateModified":"2025-02-20T02:56:16+00:00","author":{"@id":"https://rabbitaitv.com/author/benzizoune-abdessamadgmail-com/","name":"Rabbitaitv"},"publisher":{"@id":"https://rabbitaitv.com/#organization"},"description":"1 months","name":"Plans - Rabbitaitv","@id":"https://rabbitaitv.com/plans/#richSnippet","isPartOf":{"@id":"https://rabbitaitv.com/plans/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rabbitaitv.com/plans/#webpage"}}]}
   </script>
   <link rel='dns-prefetch' href='http://stats.wp.com/'>
   <link rel='dns-prefetch' href='http://fonts.googleapis.com/'>
@@ -51,9 +52,9 @@
   <link rel='stylesheet' id='widget-form-css' href='../rab-content/plugins/elementor-pro/assets/css/widget-form.minb403.css?ver=3.25.3' type='text/css' media='all'>
   <link rel='stylesheet' id='elementor-post-6-css' href='../rab-content/uploads/elementor/css/post-6218f.css?ver=1742530814' type='text/css' media='all'>
   <link rel='stylesheet' id='e-popup-style-css' href='../rab-content/plugins/elementor-pro/assets/css/conditionals/popup.minb403.css?ver=3.25.3' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-image-box-css' href='../rab-content/uploads/elementor/css/custom-widget-image-box.min218f.css?ver=1742530814' type='text/css' media='all'>
-  <link rel='stylesheet' id='widget-nested-accordion-css' href='../rab-content/plugins/elementor/assets/css/widget-nested-accordion.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
-  <link rel='stylesheet' id='elementor-post-27993-css' href='../rab-content/uploads/elementor/css/post-27993f53a.css?ver=1742538742' type='text/css' media='all'>
+  <link rel='stylesheet' id='e-animation-fadeInUp-css' href='../rab-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
+  <link rel='stylesheet' id='widget-nested-tabs-css' href='../rab-content/uploads/elementor/css/custom-widget-nested-tabs.min218f.css?ver=1742530814' type='text/css' media='all'>
+  <link rel='stylesheet' id='elementor-post-27991-css' href='../rab-content/uploads/elementor/css/post-27991cc2d.css?ver=1742531816' type='text/css' media='all'>
   <link rel='stylesheet' id='elementor-post-27971-css' href='../rab-content/uploads/elementor/css/post-27971218f.css?ver=1742530814' type='text/css' media='all'>
   <link rel='stylesheet' id='elementor-post-28262-css' href='../rab-content/uploads/elementor/css/post-28262218f.css?ver=1742530814' type='text/css' media='all'>
   <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='../rab-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticonsedb1.css?ver=3.4.4' type='text/css' media='all'>
@@ -84,7 +85,9 @@
   <link rel='stylesheet' id='wd-scroll-top-css' href='../rab-content/themes/rabbitaitv/css/parts/opt-scrolltotop.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
   <link rel='stylesheet' id='wd-wd-search-results-css' href='../rab-content/themes/rabbitaitv/css/parts/wd-search-results.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
   <link rel='stylesheet' id='wd-wd-search-form-css' href='../rab-content/themes/rabbitaitv/css/parts/wd-search-form.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-header-my-account-sidebar-css' href='../rab-content/themes/rabbitaitv/css/parts/header-el-my-account-sidebar.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
   <link rel='stylesheet' id='wd-widget-shopping-cart-css' href='../rab-content/themes/rabbitaitv/css/parts/woo-widget-shopping-cart.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
+  <link rel='stylesheet' id='wd-woo-mod-login-form-css' href='../rab-content/themes/rabbitaitv/css/parts/woo-mod-login-form.min8c3f.css?ver=8.0.0' type='text/css' media='all'>
   <link rel='stylesheet' id='xts-google-fonts-css' href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700%7CPoppins%3A400%2C600%2C500&amp;ver=8.0.0' type='text/css' media='all'>
   <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CUrbanist%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CNanum+Gothic%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.7.2' type='text/css' media='all'>
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
@@ -107,12 +110,12 @@
   <script type="text/javascript" src="../rab-content/themes/rabbitaitv/js/libs/device.min8c3f.js?ver=8.0.0" id="wd-device-library-js"></script>
   <script type="text/javascript" src="../rab-content/themes/rabbitaitv/js/scripts/global/scrollBar.min8c3f.js?ver=8.0.0" id="wd-scrollbar-js"></script>
   <link rel="https://api.w.org/" href="../wp-json/index.php">
-  <link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/27993.json">
+  <link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/27991.json">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd">
   <meta name="generator" rab-content="WordPress 6.7.2">
-  <link rel='shortlink' href='../index4360.html?p=27993'>
-  <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embedfc90.json?url=https%3A%2F%2Frabbitaitv.com%2Fsetup-guide%2F">
-  <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedfaef?url=https%3A%2F%2Frabbitaitv.com%2Fsetup-guide%2F&amp;format=xml">
+  <link rel='shortlink' href='../index1a0c.html?p=27991'>
+  <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed1952.json?url=https%3A%2F%2Frabbitaitv.com%2Fplans%2F">
+  <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed6d75?url=https%3A%2F%2Frabbitaitv.com%2Fplans%2F&amp;format=xml">
   <style>
   img#wpstats{display:none}
   </style>
@@ -247,6 +250,12 @@
   .whb-wjlcubfdmlq3d7jvmt23 .menu-opener { background-color: rgba(203, 149, 0, 1); }
   .whb-header-bottom {
         background-color: rgba(26, 26, 26, 1);border-color: rgba(255, 255, 255, 0.15);border-bottom-width: 1px;border-bottom-style: solid;
+  }
+  .e-n-tabs button{
+    border-radius: 5px !important;
+  }
+  .elementor-27991 .elementor-element.elementor-element-35f5d84.elementor-widget-n-tabs > .elementor-widget-container > .e-n-tabs > .e-n-tabs-heading > .e-n-tab-title[aria-selected="true"]{
+    background-image: linear-gradient(180deg, #ff0909 0%, #FFB105 100%) !important;
   }
   </style>
   <style id="wd-style-theme_settings_default-css" data-type="wd-style-theme_settings_default">
