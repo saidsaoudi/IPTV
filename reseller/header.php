@@ -109,7 +109,6 @@
   <link rel="https://api.w.org/" href="../wp-json/index.php">
   <link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/27997.json">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd">
-  <meta name="generator" rab-content="WordPress 6.7.2">
   <link rel='shortlink' href='../indexc614.html?p=27997'>
   <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed9537.json?url=https%3A%2F%2Frabbitaitv.com%2Freseller%2F">
   <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedb2b3?url=https%3A%2F%2Frabbitaitv.com%2Freseller%2F&amp;format=xml">

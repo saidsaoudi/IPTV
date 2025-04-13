@@ -123,7 +123,6 @@
   <link rel="https://api.w.org/" href="../wp-json/index.php">
   <link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/27995.json">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd">
-  <meta name="generator" content="WordPress 6.7.2">
   <link rel='shortlink' href='../index6b0c.html?p=27995'>
   <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed8fb6.json?url=https%3A%2F%2Frabbitaitv.com%2Fchannels-list%2F">
   <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embede769?url=https%3A%2F%2Frabbitaitv.com%2Fchannels-list%2F&amp;format=xml">
