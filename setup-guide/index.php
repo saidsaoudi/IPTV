@@ -97,6 +97,34 @@
                               <p class="mt-3">2. Go ahead and enter the following path on this window:<strong> http://ibodesk.com/media.apk ( Or, you can simply enter the downloader code: 532837 ) Click GO</strong></p>
                               <p>3. Give it a minute or two until the IBO Player app is downloaded onto your FireStick device</p>
                               <p>4. When the download has completed, the Downloader app will run the APK file and the installation will start<strong> Click Install</strong></p>
+                              <p>5. Wait for the installation to finish</p>
+                              <p>6. Installation is concluded with the<strong> App installed</strong> notification</p>
+                              <p>You may now choose to click OPEN and get started with IBO Player</p>
+                              <p>I recommend choosing <strong>DONE</strong> so that you may first delete the APK file and save some space on the FireStick storage</p>
+                              <p>7. If you clicked DONE above, you will be back on the Downloader interface Click<strong> Delete</strong></p>
+                              <img src="../rab-content/uploads/t22.jpeg" />
+                              <p class="mt-3">Great! You now have the IBO Player app on FireStick.</p>
+                              <p><strong>Launch IBO Player on Firestick</strong> either by going to Your Apps & Channels section or pressing & hold the Home button and then select Apps from the next screen.</p>
+                              <img src="../rab-content/uploads/t23.jpeg" />
+                              <p class="mt-3">Scroll down and you will see the app appears at the bottom so press select to launch it.</p>
+                              <p>Upon the initial launch of the IBO Player app, you will encounter a screen displaying the MAC address and DEVICE KEY. Utilizing these two pieces of information, you can easily proceed with the service installation.</p>
+                              <img src="../rab-content/uploads/t24.jpeg" />
+                              <p class="mt-3">1. To add the service go to this link using your phone or your laptop: https://iboplayer.com/device/login</p>
+                              <p>Enter the information displayed on the TV in the required fields (mac and Key) to connect to the application.</p>
+                              <img src="../rab-content/uploads/t25.webp" />
+                              <p class="mt-3">2. Once connected, you have two configuration methods, either with the m3u link (+ Add playlist) or with Xtream detail code (+ add XC playlist).</p>
+                              <img src="../rab-content/uploads/t26.png" />
+                              <p class="mt-3">3. Click “Add Playlist” and insert the M3U link in the Playlist URL (provided via email after purchase).</p>
+                              <img src="../rab-content/uploads/t27.png" />
+                              <p class="mt-3"><strong>As a final step, go back to your TV, restart the app, and the service will work for you.</strong>FOR TIVIMATE </p>
+                              <img src="../rab-content/uploads/t28.png" />
+                              <p class="mt-3">2. Wait for file to download.   Wait for the file download to finish </p>
+                              <img src="../rab-content/uploads/t29.png" />
+                              <p class="mt-3">3. Click Install and once the installation is completed. You can open the app. </p>
+                              <p>4. Click “Add Playlist” then choose “Xtream codes“ </p>
+                              <p>5. Enter the login details that we sent you via Whatsapp or Email or Chat</p>
+                              <hr>
+                              <p class="mt-3">If you encounter any issues during the installation of the service, please feel free to contact us via email, website chat, or WhatsApp, and we will do our best to assist you.</p> 
                             </div>
                           </div>
                           <div id="e-n-tab-content-565815082" role="tabpanel" aria-labelledby="e-n-tab-title-565815082" data-tab-index="2" style="--n-tabs-title-order: 2;" class="elementor-element elementor-element-f34b2ce e-con-full e-flex e-con e-child e-active" data-id="f34b2ce" data-element_type="container">
