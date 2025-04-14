@@ -28,10 +28,6 @@
                   <li class="elementor-icon-list-item"><span class="elementor-icon-list-text">contact.rabbitaitv@gmail.com</span></li>
                   <li class="elementor-icon-list-item"><span class="elementor-icon-list-text">15202 Marlebone CtHouston, TX 77069, USA</span></li>
                 </ul>
-                <div class="flex">
-                  <div></div>
-                  <div></div>
-                </div>
               </div>
             </div>
           </div>
@@ -221,6 +217,6 @@
   /* <![CDATA[ */
   var njt_wa = {"gdprStatus":"","accounts":[{"accountId":28585,"accountName":"Support","avatar":"","number":"+33753912707","title":"Support","predefinedText":"","willBeBackText":"I will be back in [njwa_time_work]","dayOffsText":"I will be back soon","isAlwaysAvailable":"ON","daysOfWeekWorking":{"sunday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"monday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"tuesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"wednesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"thursday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"friday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"saturday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]}}}],"options":{"display":{"displayCondition":"showAllPage","includePages":[],"excludePages":[],"includePosts":[],"showOnDesktop":"ON","showOnMobile":"ON","time_symbols":"h:m"},"styles":{"title":"Start a Conversation","responseText":"The team typically replies in a few minutes.","description":"Hi! Click one of our member below to chat on <strong>WhatsApp<\/strong>","backgroundColor":"#2db742","textColor":"#fff","titleSize":"18","accountNameSize":"14","descriptionTextSize":"12","regularTextSize":"11","scrollHeight":"500","isShowScroll":"OFF","isShowResponseText":"OFF","isShowPoweredBy":"ON","btnLabel":"Need Help? <strong>Chat with us<\/strong>","btnLabelWidth":"162","btnPosition":"right","btnLeftDistance":"30","btnRightDistance":"30","btnBottomDistance":"81","isShowBtnLabel":"ON","isShowGDPR":"OFF","gdprContent":"Please accept our <a href=\"https:\/\/ninjateam.org\/privacy-policy\/\">privacy policy<\/a> first to start a conversation."},"analytics":{"enabledGoogle":"OFF","enabledFacebook":"OFF","enabledGoogleGA4":"OFF"}}};
   /* ]]> */
-  </script> 
+  </script>
 </body>
 </html>
