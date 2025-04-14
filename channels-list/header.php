@@ -105,9 +105,6 @@
   var wc_add_to_cart_params = {"ajax_url":"\/rab-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/rabbitaitv.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
   /* ]]> */
   </script>
-  /* <![CDATA[ */
-  var woocommerce_params = {"ajax_url":"\/rab-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
-  /* ]]> */
   </script>
   <script type="text/javascript" src="../rab-content/themes/rabbitaitv/js/libs/device.min8c3f.js?ver=8.0.0" id="wd-device-library-js"></script>
   <script type="text/javascript" src="../rab-content/themes/rabbitaitv/js/scripts/global/scrollBar.min8c3f.js?ver=8.0.0" id="wd-scrollbar-js"></script>
