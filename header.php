@@ -395,6 +395,7 @@
 
         gtag('config', 'G-JH80J2REHG');
       </script>
+       <script id="pixel-chaty" async="true" src="https://cdn.chaty.app/pixel.js?id=a19A6OOy"></script>
 </head>
 <body class="home page-template-default page page-id-1887 wp-custom-logo theme-rabbitaitv woocommerce-no-js wrapper-full-width global-color-scheme-light categories-accordion-on dropdowns-color-light elementor-default elementor-kit-6 elementor-page elementor-page-1887">
   <script type="text/javascript" id="wd-flicker-fix">
