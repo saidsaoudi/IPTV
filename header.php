@@ -135,7 +135,6 @@
   <link rel="https://api.w.org/" href="wp-json/index.php">
   <link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/1887.json">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd">
-  <meta name="generator" content="WordPress 6.7.2">
   <link rel='shortlink' href='index.php'>
   <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed9c75.json?url=https%3A%2F%2Frabbitaitv.com%2F">
   <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed92b8?url=https%3A%2F%2Frabbitaitv.com%2F&amp;format=xml">
@@ -397,6 +396,15 @@
 
 
   </style>
+  <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-JH80J2REHG"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JH80J2REHG');
+      </script>
 </head>
 <body class="home page-template-default page page-id-1887 wp-custom-logo theme-rabbitaitv woocommerce-no-js wrapper-full-width global-color-scheme-light categories-accordion-on dropdowns-color-light elementor-default elementor-kit-6 elementor-page elementor-page-1887">
   <script type="text/javascript" id="wd-flicker-fix">

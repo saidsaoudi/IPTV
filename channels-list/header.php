@@ -387,6 +387,15 @@
 
 
   </style>
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-JH80J2REHG"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JH80J2REHG');
+      </script>
 </head>
 <body class="page-template-default page page-id-27995 wp-custom-logo theme-rabbitaitv woocommerce-no-js wrapper-full-width global-color-scheme-light categories-accordion-on dropdowns-color-light elementor-default elementor-kit-6 elementor-page elementor-page-27995">
   <script type="text/javascript" id="wd-flicker-fix">
