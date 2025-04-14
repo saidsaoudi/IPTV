@@ -54,7 +54,6 @@
   <style id='woocommerce-inline-inline-css' type='text/css'>
   .woocommerce form .form-row .required { visibility: visible; }
   </style>
-  <link rel='stylesheet' id='brands-styles-css' href='rab-content/plugins/woocommerce/assets/css/brands04d4.css?ver=9.7.1' type='text/css' media='all'>
   <link rel='stylesheet' id='elementor-frontend-css' href='rab-content/uploads/elementor/css/custom-frontend.min218f.css?ver=1742530814' type='text/css' media='all'>
   <link rel='stylesheet' id='widget-image-css' href='rab-content/plugins/elementor/assets/css/widget-image.min3dd9.css?ver=3.27.6' type='text/css' media='all'>
   <link rel='stylesheet' id='widget-nav-menu-css' href='rab-content/uploads/elementor/css/custom-pro-widget-nav-menu.min218f.css?ver=1742530814' type='text/css' media='all'>
@@ -116,20 +115,11 @@
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
   <script type="text/javascript" src="includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
   <script type="text/javascript" src="includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
-  <script type="text/javascript" src="rab-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min4a91.js?ver=2.7.0-wc.9.7.1" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
   <script type="text/javascript" id="wc-add-to-cart-js-extra">
   /* <![CDATA[ */
   var wc_add_to_cart_params = {"ajax_url":"\/p-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/rabbitaitv.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
   /* ]]> */
   </script>
-  <script type="text/javascript" src="rab-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min04d4.js?ver=9.7.1" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
-  <script type="text/javascript" src="rab-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min73a9.js?ver=2.1.4-wc.9.7.1" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
-  <script type="text/javascript" id="woocommerce-js-extra">
-  /* <![CDATA[ */
-  var woocommerce_params = {"ajax_url":"\/p-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
-  /* ]]> */
-  </script>
-  <script type="text/javascript" src="rab-content/plugins/woocommerce/assets/js/frontend/woocommerce.min04d4.js?ver=9.7.1" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
   <script type="text/javascript" src="rab-content/themes/rabbitaitv/js/libs/device.min8c3f.js?ver=8.0.0" id="wd-device-library-js"></script>
   <script type="text/javascript" src="rab-content/themes/rabbitaitv/js/scripts/global/scrollBar.min8c3f.js?ver=8.0.0" id="wd-scrollbar-js"></script>
   <link rel="https://api.w.org/" href="wp-json/index.php">

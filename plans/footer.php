@@ -101,7 +101,6 @@
                         document.body.className = c;
                 })();
   </script>
-  <link rel='stylesheet' id='wc-blocks-style-css' href='../rab-content/plugins/woocommerce/assets/client/blocks/wc-blocks2656.css?ver=wc-9.7.1' type='text/css' media='all'>
   <script type="text/javascript" id="wd-update-cart-fragments-fix-js-extra">
   /* <![CDATA[ */
   var wd_cart_fragments_params = {"ajax_url":"\/rab-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_66d1e3dd47daf6f8f21323dddf21a416","fragment_name":"wc_fragments_66d1e3dd47daf6f8f21323dddf21a416","request_timeout":"5000"};
@@ -124,7 +123,6 @@
   /* ]]> */
   </script> 
   <script type="text/javascript" src="../rab-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scriptsedb1.js?ver=3.4.4" id="ekit-widget-scripts-js"></script> 
-  <script type="text/javascript" src="../rab-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min04d4.js?ver=9.7.1" id="sourcebuster-js-js"></script> 
   <script type="text/javascript" id="wc-order-attribution-js-extra">
 
 
@@ -132,7 +130,6 @@
   var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/rabbitaitv.com\/rab-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_rab-content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
   /* ]]> */
   </script> 
-  <script type="text/javascript" src="../rab-content/plugins/woocommerce/assets/js/frontend/order-attribution.min04d4.js?ver=9.7.1" id="wc-order-attribution-js"></script> 
   <script type="text/javascript" src="../rab-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.minb403.js?ver=3.25.3" id="elementor-pro-webpack-runtime-js"></script> 
   <script type="text/javascript" src="../rab-content/plugins/elementor/assets/js/webpack.runtime.min3dd9.js?ver=3.27.6" id="elementor-webpack-runtime-js"></script> 
   <script type="text/javascript" src="../rab-content/plugins/elementor/assets/js/frontend-modules.min3dd9.js?ver=3.27.6" id="elementor-frontend-modules-js"></script> 
@@ -200,7 +197,6 @@
   var wc_cart_fragments_params = {"ajax_url":"\/rab-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_66d1e3dd47daf6f8f21323dddf21a416","fragment_name":"wc_fragments_66d1e3dd47daf6f8f21323dddf21a416","request_timeout":"5000"};
   /* ]]> */
   </script> 
-  <script type="text/javascript" src="../rab-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min04d4.js?ver=9.7.1" id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script> 
   <script type="text/javascript" id="gt_widget_script_46802826-js-before">
 
 
