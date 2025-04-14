@@ -137,8 +137,8 @@
   @font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('../rab-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt%2cwght.woff2') format('woff2');font-stretch:normal;}
   @font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('../rab-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
   </style>
-  <link rel="icon" href="rab-content/uploads/favicon.png" sizes="32x32">
-  <link rel="icon" href="rab-content/uploads/favicon.png" sizes="192x192">
+  <link rel="icon" href="../rab-content/uploads/favicon.png" sizes="32x32">
+  <link rel="icon" href="../rab-content/uploads/favicon.png" sizes="192x192">
   <link rel="apple-touch-icon" href="../rab-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-180x180.png">
   <meta name="msapplication-TileImage" rab-content="https://rabbitaitv.com/rab-content/uploads/2024/12/cropped-photo_2024-12-02_00-59-17-removebg-preview-270x270.png">
   <style id="wd-style-header_802259-css" data-type="wd-style-header_802259">
