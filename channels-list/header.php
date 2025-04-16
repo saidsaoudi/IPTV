@@ -129,7 +129,7 @@
   <style>
     .elementor-button {
     color: #ffffff !important;
-    background-image: linear-gradient(180deg, #3e4ef6 0%, #FFB505 100%) !important;
+    background: #ff0505 !important;
 }
                                 .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
                                 .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
