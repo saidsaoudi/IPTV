@@ -370,6 +370,17 @@
             gtag('config', 'G-JH80J2REHG')
   </script>
   <script id="pixel-chaty" async="true" src="https://cdn.chaty.app/pixel.js?id=a19A6OOy"></script>
+  <!-- Hotjar Tracking Code for https://rabbitaitv.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:6374070,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
 </head>
 <body class="page-template-default page page-id-27997 wp-custom-logo theme-rabbitaitv woocommerce-no-js wrapper-full-width global-color-scheme-light categories-accordion-on dropdowns-color-light elementor-default elementor-kit-6 elementor-page elementor-page-27997">
   <script type="text/javascript" id="wd-flicker-fix">
