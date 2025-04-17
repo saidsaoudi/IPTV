@@ -120,7 +120,7 @@
     }
     .elementor-button {
     color: #ffffff !important;
-    background: #ff0505!important;
+    background: #F20732!important;
 } 
                                 .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
                                 .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
