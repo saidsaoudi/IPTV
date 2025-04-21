@@ -381,8 +381,33 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
+<style>
+ #google_translate_element{
+  position: fixed;
+    z-index: 9999;
+    bottom: 0;
+ }
+ select {
+  border: 1px solid #fff !important;
+  color:#fff !important;
+ }
+ .goog-te-gadget .goog-te-combo {
+    background-color: #1a1a1a;
+}
+</style>
 </head>
 <body class="page-template-default page page-id-27997 wp-custom-logo theme-rabbitaitv woocommerce-no-js wrapper-full-width global-color-scheme-light categories-accordion-on dropdowns-color-light elementor-default elementor-kit-6 elementor-page elementor-page-27997">
+<div id="google_translate_element"></div>
+<!-- Google Translate Script -->
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement(
+      {pageLanguage: 'en'},
+      'google_translate_element'
+    );
+  }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   <script type="text/javascript" id="wd-flicker-fix">
   // Flicker fix.
   </script>
